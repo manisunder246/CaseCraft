@@ -1,0 +1,16 @@
+Loading checkpoint shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:19<00:00,  3.99s/it]
+Traceback (most recent call last):
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/fine_tuning_llama.py", line 170, in <module>
+    fine_tune_model(json_files, model, processor, output_dir)
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/fine_tuning_llama.py", line 127, in fine_tune_model
+    tokenized_dataset = dataset.map(
+                        ^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/dataset_dict.py", line 887, in map
+    k: dataset.map(
+       ^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 560, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 2994, in map
+    raise ValueError(
+ValueError: Column to remove ['common_legal_words', 'glossary_3', 'glossary_2'] not in the dataset. Current columns in the dataset: ['legal term', 'meaning']

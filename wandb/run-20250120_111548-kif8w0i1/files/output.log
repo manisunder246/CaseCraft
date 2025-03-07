@@ -1,0 +1,25 @@
+Loading checkpoint shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:20<00:00,  4.06s/it]
+Map:   0%|                                                                                                                                     | 0/49 [00:00<?, ? examples/s]
+Traceback (most recent call last):
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/fine_tuning_llama.py", line 157, in <module>
+    fine_tune_model(json_files, model, processor, output_dir)
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/fine_tuning_llama.py", line 116, in fine_tune_model
+    tokenized_dataset = dataset.map(
+                        ^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/dataset_dict.py", line 887, in map
+    k: dataset.map(
+       ^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 560, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 3073, in map
+    for rank, done, content in Dataset._map_single(**dataset_kwargs):
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/arrow_dataset.py", line 3499, in _map_single
+    writer.write_batch(batch)
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/arrow_writer.py", line 608, in write_batch
+    pa_table = pa.Table.from_arrays(arrays, schema=schema)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pyarrow/table.pxi", line 4868, in pyarrow.lib.Table.from_arrays
+  File "pyarrow/table.pxi", line 4214, in pyarrow.lib.Table.validate
+  File "pyarrow/error.pxi", line 92, in pyarrow.lib.check_status
+pyarrow.lib.ArrowInvalid: Column 2 named input_ids expected length 49 but got length 1

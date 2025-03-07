@@ -1,0 +1,14 @@
+/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/bitsandbytes/cextension.py:34: UserWarning: The installed version of bitsandbytes was compiled without GPU support. 8-bit optimizers, 8-bit multiplication, and GPU quantization are unavailable.
+  warn("The installed version of bitsandbytes was compiled without GPU support. "
+'NoneType' object has no attribute 'cadam32bit_grad_fp32'
+Map: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1088/1088 [00:00<00:00, 7182.93 examples/s]
+Traceback (most recent call last):
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/test.py", line 108, in <module>
+    training_args = TrainingArguments(
+                    ^^^^^^^^^^^^^^^^^^
+  File "<string>", line 134, in __init__
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/training_args.py", line 1643, in __post_init__
+    raise ValueError(
+ValueError: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: IntervalStrategy.NO
+- Save strategy: SaveStrategy.STEPS

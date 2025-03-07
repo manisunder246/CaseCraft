@@ -1,0 +1,24 @@
+Map: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1088/1088 [00:00<00:00, 12787.51 examples/s]
+Traceback (most recent call last):
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/trainer.py", line 1365, in get_optimizer_cls_and_kwargs
+    from bitsandbytes.optim import AdamW, Lion, RMSprop
+ModuleNotFoundError: No module named 'bitsandbytes'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/fine_tuning_llama.py", line 136, in <module>
+    trainer.train()
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/trainer.py", line 2171, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/trainer.py", line 2272, in _inner_training_loop
+    self.create_optimizer_and_scheduler(num_training_steps=max_steps)
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/trainer.py", line 1166, in create_optimizer_and_scheduler
+    self.create_optimizer()
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/trainer.py", line 1214, in create_optimizer
+    optimizer_cls, optimizer_kwargs = self.get_optimizer_cls_and_kwargs(self.args, opt_model)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/trainer.py", line 1420, in get_optimizer_cls_and_kwargs
+    raise ValueError("Trainer tried to instantiate bnb optimizer but `bitsandbytes` is not installed!")
+ValueError: Trainer tried to instantiate bnb optimizer but `bitsandbytes` is not installed!

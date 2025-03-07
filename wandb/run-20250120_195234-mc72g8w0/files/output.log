@@ -1,0 +1,22 @@
+/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/bitsandbytes/cextension.py:34: UserWarning: The installed version of bitsandbytes was compiled without GPU support. 8-bit optimizers, 8-bit multiplication, and GPU quantization are unavailable.
+  warn("The installed version of bitsandbytes was compiled without GPU support. "
+'NoneType' object has no attribute 'cadam32bit_grad_fp32'
+Map: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1088/1088 [00:00<00:00, 7308.64 examples/s]
+/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/optimization.py:591: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+[34m[1mwandb[0m: [33mWARNING[0m The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+  1%|█▍                                                                                                                                  | 6/544 [26:43<39:40:35, 265.49s/it]Traceback (most recent call last):
+{'loss': 15.2962, 'grad_norm': 42.53517150878906, 'learning_rate': 2e-05, 'epoch': 0.0}
+{'loss': 14.9137, 'grad_norm': 41.68196487426758, 'learning_rate': 4e-05, 'epoch': 0.0}
+{'loss': 13.8705, 'grad_norm': 43.071922302246094, 'learning_rate': 6e-05, 'epoch': 0.01}
+{'loss': 12.73, 'grad_norm': 49.41517639160156, 'learning_rate': 8e-05, 'epoch': 0.01}
+{'loss': 9.2362, 'grad_norm': 60.343467712402344, 'learning_rate': 0.0001, 'epoch': 0.01}
+{'loss': 3.0491, 'grad_norm': 60.739723205566406, 'learning_rate': 0.00012, 'epoch': 0.01}
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/test.py", line 132, in <module>
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/trainer.py", line 2171, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/transformers/trainer.py", line 2536, in _inner_training_loop
+    and (torch.isnan(tr_loss_step) or torch.isinf(tr_loss_step))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

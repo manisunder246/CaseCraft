@@ -1,0 +1,15 @@
+{"time":"2025-01-20T20:27:23.265492+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/wandb/run-20250120_202722-bc5ww8d1/logs/debug-core.log"}
+{"time":"2025-01-20T20:27:23.372686+05:30","level":"INFO","msg":"created new stream","id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:23.372723+05:30","level":"INFO","msg":"stream: started","id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:23.372765+05:30","level":"INFO","msg":"handler: started","stream_id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:23.373092+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:23.373113+05:30","level":"INFO","msg":"sender: started","stream_id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:24.200692+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-20T20:27:24.692938+05:30","level":"INFO","msg":"stream: closing","id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:24.693168+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-20T20:27:24.693472+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-20T20:27:26.406793+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-20T20:27:26.76796+05:30","level":"INFO","msg":"handler: closed","stream_id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:26.767989+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:26.768018+05:30","level":"INFO","msg":"sender: closed","stream_id":"bc5ww8d1"}
+{"time":"2025-01-20T20:27:26.768233+05:30","level":"INFO","msg":"stream: closed","id":"bc5ww8d1"}

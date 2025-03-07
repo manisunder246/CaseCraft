@@ -1,0 +1,42 @@
+**** LORA COMMANDS****
+
+1. First fine-tuning iteration:
+WANDB_API_KEY=3e7456717b086dae83a95b6b808fad9cab99405e python lora.py --train \
+--model "/Users/manisunder/Llama-3.2-11B-Vision-Instruct-8bit" \
+--data "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/DATA/Glossary/data" \
+--batch-size 2 \
+--lora-layers 8 \
+--iters 5000
+
+2. Fusing the weights : birth of Chanakya
+python -m mlx_lm.fuse \
+  --model "/Users/manisunder/Llama-3.2-11B-Vision-Instruct-8bit" \
+  --adapter-path "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/FINETUNED MODEL" \
+  --save-path "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/FINETUNED MODEL"
+
+
+3. Making Chanakya more intelligent.
+
+WANDB_API_KEY=3e7456717b086dae83a95b6b808fad9cab99405e python lora.py --train \
+--model "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/FINETUNED MODEL/chanakya-ai-ibc" \
+--data "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/DATA/LEGAL FRAMEWORK/ACT/DATA"  \
+--lora-layers 8 \
+--iters 1000 \
+--batch-size 2 \
+
+4. Fusing the final weights:
+python -m mlx_lm.fuse \
+  --model "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/FINETUNED MODEL/chanakya-ai-ibc" \
+  --adapter-path "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/FINETUNED MODEL" \
+  --save-path "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/FINETUNED MODEL/chanakya-ai-ibc-finetuned"
+
+
+******************************************************************************************************************************************************************************************************************
+1. Extract the embeddings to excel:
+
+python test_chroma_db.py --export excel
+
+
+
+
+

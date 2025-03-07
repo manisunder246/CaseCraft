@@ -1,0 +1,39 @@
+{
+  "os":  "macOS-15.2-arm64-arm-64bit",
+  "python":  "CPython 3.12.1",
+  "startedAt":  "2025-01-20T10:30:44.865375Z",
+  "program":  "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/fine_tuning_llama.py",
+  "codePath":  "fine_tuning_llama.py",
+  "root":  "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft",
+  "host":  "Manis-MacBook-Pro.local",
+  "executable":  "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/bin/python",
+  "codePathLocal":  "fine_tuning_llama.py",
+  "cpu_count":  16,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "574687285248"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "994662584320",
+      "used":  "574687285248"
+    }
+  },
+  "memory":  {
+    "total":  "51539607552"
+  },
+  "cpu":  {
+    "count":  16,
+    "countLogical":  16
+  },
+  "apple":  {
+    "name":  "Apple M3 Max",
+    "ecpuCores":  4,
+    "pcpuCores":  12,
+    "gpuCores":  40,
+    "memoryGb":  48,
+    "swapTotalBytes":  "16106127360",
+    "ramTotalBytes":  "51539607552"
+  }
+}

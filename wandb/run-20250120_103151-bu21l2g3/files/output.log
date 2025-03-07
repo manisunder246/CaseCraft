@@ -1,0 +1,51 @@
+Loading checkpoint shards: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:23<00:00,  4.66s/it]
+Generating common_legal_words split: 49 examples [00:00, 2733.90 examples/s]
+Generating glossary_2 split: 0 examples [00:00, ? examples/s]
+Traceback (most recent call last):
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/builder.py", line 1870, in _prepare_split_single
+    writer.write_table(table)
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/arrow_writer.py", line 622, in write_table
+    pa_table = table_cast(pa_table, self._schema)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/table.py", line 2292, in table_cast
+    return cast_table_to_schema(table, schema)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/table.py", line 2240, in cast_table_to_schema
+    raise CastError(
+datasets.table.CastError: Couldn't cast
+Legal Term: string
+Meaning (English): string
+Usage in Sentence: string
+-- schema metadata --
+pandas: '{"index_columns": [], "column_indexes": [], "columns": [{"name":' + 490
+to
+{'Word': Value(dtype='string', id=None), 'Meaning': Value(dtype='string', id=None)}
+because column names don't match
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/fine_tuning_llama.py", line 155, in <module>
+    fine_tune_model(json_files, model, processor, output_dir)
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/fine_tuning_llama.py", line 111, in fine_tune_model
+    dataset = load_dataset("json", data_files=json_file, split="train")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/load.py", line 2151, in load_dataset
+    builder_instance.download_and_prepare(
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/builder.py", line 924, in download_and_prepare
+    self._download_and_prepare(
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/builder.py", line 1000, in _download_and_prepare
+    self._prepare_split(split_generator, **prepare_split_kwargs)
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/builder.py", line 1741, in _prepare_split
+    for job_id, done, content in self._prepare_split_single(
+  File "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/lib/python3.12/site-packages/datasets/builder.py", line 1872, in _prepare_split_single
+    raise DatasetGenerationCastError.from_cast_error(
+datasets.exceptions.DatasetGenerationCastError: An error occurred while generating the dataset
+
+All the data files must have the same columns, but at some point there are 3 new columns ({'Usage in Sentence', 'Meaning (English)', 'Legal Term'}) and 2 missing columns ({'Meaning', 'Word'}).
+
+This happened while the json dataset builder was generating data using
+
+/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/DATA/Glossary/JSON files/glossary_2.json
+
+Please either edit the data files to have matching columns, or separate them into different configurations (see docs at https://hf.co/docs/hub/datasets-manual-configuration#multiple-configurations)

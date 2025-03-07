@@ -1,0 +1,12 @@
+{
+  "os":  "macOS-15.2-arm64-arm-64bit",
+  "python":  "CPython 3.12.1",
+  "startedAt":  "2025-01-20T14:57:23.263223Z",
+  "program":  "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/test.py",
+  "codePath":  "test.py",
+  "email":  "manisunder24692@gmail.com",
+  "root":  "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft",
+  "host":  "Manis-MacBook-Pro.local",
+  "executable":  "/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/case_craft/bin/python",
+  "codePathLocal":  "test.py"
+}

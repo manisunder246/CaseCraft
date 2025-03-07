@@ -1,0 +1,1207 @@
+{"text": "Board: means the Insolvency and Bankruptcy Board of India established under sub-section (1) of section 188;"}
+{"text": "bench: means a bench of the Adjudicating Authority;"}
+{"text": "bye-laws: mean the bye-laws made by the insolvency professional agency under section 205;"}
+{"text": "charge: means an interest or lien created on the property or assets of any person or any of its undertakings or both, as the case may be, as security and includes a mortgage;"}
+{"text": "Chairperson: means the Chairperson of the Board;"}
+{"text": "claim: means \u2013 (a) a right to payment, whether or not such right is reduced to judgment, fixed, disputed, undisputed, legal, equitable, secured, or unsecured; (b) right to remedy for breach of contract under any law for the time being in force, if such breach gives rise to a right to payment, whether or not such right is reduced to judgment, fixed, matured, unmatured, disputed, undisputed, secured or unsecured;"}
+{"text": "corporate person: means a company as defined in clause (20) of section 2 of the Companies Act, 2013 (18 of 2013), a limited liability partnership, as defined in clause (n) of sub-section (1) of section 2 of the Limited Liability Partnership Act, 2008 (6 of 2009), or any other person incorporated with limited liability under any law for the time being in force but shall not include any financial service provider;"}
+{"text": "corporate debtor: means a corporate person who owes a debt to any person;"}
+{"text": "core services: means services rendered by an information utility for \u2013 (a) accepting electronic submission of financial information in such form and manner as may be specified; (b) safe and accurate recording of financial information; (c) authenticating and verifying the financial information submitted by a person; and (d) providing access to information stored with the information utility to persons as may be specified;"}
+{"text": "creditor: means any person to whom a debt is owed and includes a financial creditor, an operational creditor, a secured creditor, an unsecured creditor and a decree-holder;"}
+{"text": "debt: means a liability or obligation in respect of a claim which is due from any person and includes a financial debt and operational debt;"}
+{"text": "default: means non-payment of debt when whole or any part or instalment of the amount of debt has become due and payable and is not 1 paid by the debtor or the corporate debtor, as the case may be;"}
+{"text": "financial information: , in relation to a person, means one or more of the following categories of information, namely: \u2013 (a) records of the debt of the person; (b) records of liabilities when the person is solvent; (c)records of assets of person over which security interest has been created; (d) records, if any, of instances of default by the person against any debt; (e) records of the balance sheet and cash-flow statements of the person; and (f) such other information as may be specified."}
+{"text": "financial institution: means- (a) a scheduled bank; (b) financial institution as defined in section 45-I of the Reserve Bank of India Act, 1934 (2 of 1934); (c) public financial institution as defined in clause (72) of section 2 of the Companies Act, 2013 (18 of 2013); and (d) such other institution as the Central Government may by notification specify as a financial institution;"}
+{"text": "financial product: means securities, contracts of insurance, deposits, credit arrangements including loans and advances by banks and financial institutions, retirement benefit plans, small savings instruments, foreign currency contracts other than contracts to exchange one currency (whether Indian or not) for another which are to be settled immediately, or any other instrument as may be prescribed;"}
+{"text": "financial service: includes any of the following services, namely: (a) accepting of deposits;\n(b) safeguarding and administering assets consisting of financial products, belonging to another person, or agreeing to do so;(c) effecting contracts of insurance;\n(d) offering, managing or agreeing to manage assets consisting of financial products belonging to another person;(e) rendering or agreeing, for consideration, to render advice on or soliciting for the purposes of buying, selling, or subscribing to, a financial product; availing a financial service; or exercising any right associated with a financial product or financial service; (f) establishing or operating an investment scheme; (g) maintaining or transferring records of ownership of a financial product; (h) underwriting the issuance or subscription of a financial product; or (i) selling, providing, or issuing stored value or payment instruments or providing payment services;"}
+{"text": "financial service provider: means a person engaged in the business of providing financial services in terms of authorisation issued or registration granted by a financial sector regulator;"}
+{"text": "financial sector regulator: means an authority or body constituted under any law for the time being in force to regulate services or transactions of financial sector and includes the Reserve Bank of India, the Securities and Exchange Board of India, the Insurance Regulatory and Development Authority of India, the Pension Fund Regulatory Authority and such other regulatory authorities as may be notified by the Central Government;"}
+{"text": "insolvency professional: means a person enrolled under section 206 with an insolvency professional agency as its member and registered with the Board as an insolvency professional under section 207;"}
+{"text": "insolvency professional agency: means any person registered with the Board under section 201 as an insolvency professional agency;"}
+{"text": "information utility: means a person who is registered with the Board as an information utility under section 210;"}
+{"text": "notification: shall be construed accordingly;"}
+{"text": "person: includes \u2013 (a) an individual; (b) a Hindu Undivided Family; (c) a company; (d) a trust; (e) a partnership; (f) a limited liability partnership; and (g) any other entity established under a statute, and includes a person resident outside India;"}
+{"text": "person resident in India: shall have the meaning as assigned to such term in clause (v) of section 2 of the Foreign Exchange Management Act, 1999 (42 of 1999);"}
+{"text": "person resident outside India: means a person other than a person resident in India;"}
+{"text": "prescribed: means prescribed by rules made by the Central Government;"}
+{"text": "property: includes money, goods, actionable claims, land and every description of property situated in India or outside India and every description of interest including present or future or vested or contingent interest arising out of, or incidental to, property;"}
+{"text": "regulations: means the regulations made by the Board under this Code;"}
+{"text": "Schedule: means the Schedule annexed to this Code;"}
+{"text": "secured creditor: means a creditor in favour of whom security interest is created;"}
+{"text": "security interest: means right, title or interest or a claim to property, created in favour of, or provided for a secured creditor by a transaction which secures payment or performance of an obligation and includes mortgage, charge, hypothecation, assignment and encumbrance or any other agreement or arrangement securing payment or performance of any obligation of any person: Provided that security interest shall not include a performance guarantee;"}
+{"text": "specified: shall be construed accordingly;"}
+{"text": "transaction: includes a agreement or arrangement in writing for the transfer of assets, or funds, goods or services, from or to the corporate debtor;"}
+{"text": "transfer: includes sale, purchase, exchange, mortgage, pledge, gift, loan or any other form of transfer of right, title, possession or lien;"}
+{"text": "transfer of property: means transfer of any property and includes a transfer of any interest in the property and creation of any charge upon such property;"}
+{"text": "workman: shall have the same meaning as assigned to it in clause (s) of section 2 of the Industrial Disputes Act, 1947(14 of 1947);"}
+{"text": "words and expressions used but not defined in this Code but defined in the Indian Contract Act, 1872(9 of 1872), the Indian Partnership Act, 1932 (9 of 1932), the Securities Contact (Regulation) Act, 1956 (42 of 1956), the Securities Exchange Board of India Act, 1992 (15 of 1992), the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (51 of 1993), the Limited Liability Partnership Act, 2008 (6 of 2009) and the Companies Act, 2013 (18 of 2013): , shall have the meanings respectively assigned to them in those Acts. In this Part, unless the context otherwise requires"}
+{"text": "Adjudicating Authority: , for the purposes of this Part, means National Company Law Tribunal constituted under section 408 of the Companies Act, 2013 (18 of 2013);"}
+{"text": "auditor: means a chartered accountant certified to practice as such by the Institute of Chartered Accountants of India under section 6 of the Chartered Accountants Act, 1949 (XXXVIII of 1939);"}
+{"text": "base resolution plan: means a resolution plan provided by the corporate debtor under clause (c) of sub-section (4) of section 54A;"}
+{"text": "Chapter: means a Chapter under this Part;"}
+{"text": "constitutional document: , in relation to a corporate person, includes articles of association, memorandum of association of a company and incorporation document of a Limited Liability Partnership;"}
+{"text": "corporate applicant: means (a) corporate debtor; or (b) a member or partner of the corporate debtor who is authorised to make an application for the corporate insolvency resolution process or the pre-packaged insolvency resolution process, as the case may be, under the constitutional document of the corporate debtor; or (c) an individual who is in charge of managing the operations and resources of the corporate debtor; or (d) a person who has the control, and supervision over the financial affairs of the corporate debtor;"}
+{"text": "corporate guarantor: means a corporate person who is the surety in a contract of guarantee to a corporate debtor;"}
+{"text": "dispute: includes a suit or arbitration proceedings relating to\u2013 (a) the existence of the amount of debt; (b) the quality of goods or service; or (c) the breach of a representation or warranty;"}
+{"text": "financial creditor: means any person to whom a financial debt is owed and includes person to whom such debt has been legally assigned or transferred to;"}
+{"text": "financial debt: means a debt along with interest, if any, which is disbursed against the consideration for the time value of money and includes: (a) money borrowed against the payment of interest; (b) any amount raised by acceptance under any acceptance credit facility or its dematerialised equivalent; (c) any amount raised pursuant to any note purchase facility or the issue of bonds, notes, debentures, loan stock or any similar instrument; (d) the amount of any liability in respect of any lease or hire purchase contract which is deemed as a finance or capital lease under the Indian Accounting Standards or such other accounting standards as may be prescribed; (e) receivables sold or discounted other than any receivables sold on non-recourse basis; (f) any amount raised under any other transaction, including any forward sale or purchase agreement, having the commercial effect of a borrowing; Explanation: For the purposes of this sub-clause: (i) any amount raised from an allottee under a real estate project shall be deemed to be an amount having the commercial effect of a borrowing; and (ii) the expressions, \u201callottee\u201d and \u201creal estate project\u201d shall have the meanings respectively assigned to them in clauses (d) and (zn) of section 2 of the Real Estate (Regulation and Development) Act, 2016 (16 of 2016); (g) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price and for calculating the value of an derivative transaction, only the market value of such transaction shall be taken into account; (h) any counter-indemnity obligation in respect of a guarantee, indemnity, bond, documentary letter of credit or any other instrument issued by a bank or financial institution; (i) the amount of any liability in respect of any of the guarantee or indemnity for any of the items referred to in sub-clauses (a) to (h) of this clause;"}
+{"text": "financial position: , in relation to any person, means the financial information of a person as on a certain date;"}
+{"text": "information memorandum: means a memorandum prepared by resolution professional under sub-section (1) of section 29;"}
+{"text": "initiation date: means the date on which a financial creditor, corporate applicant or operational creditor, as the case may be, makes an application to the Adjudicating Authority for initiating corporate insolvency resolution process or pre-packaged insolvency resolution process, as the case may be;"}
+{"text": "insolvency commencement date: means the date of admission of an application for initiating corporate insolvency resolution process by the Adjudicating Authority under sections 7, 9 or section 10, as the case may be:"}
+{"text": "insolvency resolution process costs: means: (a) the amount of any interim finance and the costs incurred in raising such finance; (b) the fees payable to any person acting as a resolution professional; (c) any costs incurred by the resolution professional in running the business of the corporate debtor as a going concern; (d) any costs incurred at the expense of the Government to facilitate the insolvency resolution process; and (e) any other costs as may be specified by the Board;"}
+{"text": "insolvency resolution process period: means the period of one hundred and eighty days beginning from the insolvency commencement date and ending on one hundred and eightieth day;"}
+{"text": "interim finance: means any financial debt raised by the resolution professional during the insolvency resolution process period or by the corporate debtor during the prepackaged insolvency resolution process period, as the case may be and such other debt as may be notified;"}
+{"text": "liquidation cost: means any cost incurred by the liquidator during the period of liquidation subject to such regulations, as may be specified by the Board;"}
+{"text": "liquidation commencement date: means the date on which proceedings for liquidation commence in accordance with section 33 or section 59, as the case may be;"}
+{"text": "liquidator: means an insolvency professional appointed as a liquidator in accordance with the provisions of Chapter III or Chapter V of this Part, as the case may be;"}
+{"text": "officer: for the purposes of Chapter VI and Chapter VII of this Part, means an officer who is in default, as defined in clause (60) of section 2 of the Companies Act, 2013 (18 of 2013), or a designated partner as defined in clause (j) of section 2 of the Limited Liability Partnership Act, 2008 (6 of 2009), as the case may be;"}
+{"text": "operational creditor: means a person to whom an operational debt is owed and includes any person to whom such debt has been legally assigned or transferred;"}
+{"text": "operational debt: means a claim in respect of the provision of goods or services including employment or a debt in respect of the 2 payment of dues arising under any law for the time being in force and payable to the Central Government, any State Government or any local authority;"}
+{"text": "personal guarantor: means an individual who is the surety in a contract of guarantee to a corporate debtor;"}
+{"text": "personnel: includes the directors, managers, key managerial personnel, designated partners and employees, if any, of the corporate debtor;"}
+{"text": "preliminary information memorandum: means a memorandum submitted by the corporate debtor under clause (b) of sub-section (1) of section 54G;"}
+{"text": "pre-packaged insolvency commencement date: means the date of admission of an application for initiating the pre-packaged insolvency resolution process by the Adjudicating Authority under clause (a) of sub-section (4) of section 54C;"}
+{"text": "pre-packaged insolvency resolution process costs: means: (a) the amount of any interim finance and the costs incurred in raising such finance; (b) the fees payable to any person acting as a resolution professional and any expenses incurred by him for conducting the pre-packaged insolvency resolution process during the pre-packaged insolvency resolution process period, subject to sub-section (6) of section 54F; (c) any costs incurred by the resolution professional in running the business of the corporate debtor as a going concern pursuant to an order under sub-section (2) of section 54J; (d) any costs incurred at the expense of the Government to facilitate the prepackaged insolvency resolution process; and (e) any other costs as may be specified;"}
+{"text": "pre-packaged insolvency resolution process period: means the period beginning from the pre-packaged insolvency commencement date and ending on the date on which an order under sub-section (1) of section 54L, or sub-section (1) of section 54N, or sub-section (2) of section 54-O, as the case may be, is passed by the Adjudicating Authority;"}
+{"text": "related party: , in relation to a corporate debtor, means: (a) a director or partner of the corporate debtor or a relative of a director or partner of the corporate debtor; (b) a key managerial personnel of the corporate debtor or a relative of a key managerial personnel of the corporate debtor; (c) a limited liability partnership or a partnership firm in which a director, partner, or manager of the corporate debtor or his relative is a partner; (d) a private company in which a director, partner or manager of the corporate debtor is a director and holds along with his relatives, more than two per cent. of its share capital; (e) a public company in which a director, partner or manager of the corporate debtor is a director and holds along with relatives, more than two per cent. of its paid- up share capital; (f) anybody corporate whose board of directors, managing director or manager, in the ordinary course of business, acts on the advice, directions or instructions of a director, partner or manager of the corporate debtor; (g) any limited liability partnership or a partnership firm whose partners or employees in the ordinary course of business, acts on the advice, directions or instructions of a director, partner or manager of the corporate debtor; (h) any person on whose advice, directions or instructions, a director, partner or manager of the corporate debtor is accustomed to act; (i) a body corporate which is a holding, subsidiary or an associate company of the corporate debtor, or a subsidiary of a holding company to which the corporate debtor is a subsidiary; (j) any person who controls more than twenty per cent. of voting rights in the corporate debtor on account of ownership or a voting agreement; (k) any person in whom the corporate debtor controls more than twenty per cent. of voting rights on account of ownership or a voting agreement; (l) any person who can control the composition of the board of directors or corresponding governing body of the corporate debtor; (m) any person who is associated with the corporate debtor on account of: (i) participation in policy making processes of the corporate debtor; or (ii) having more than two directors in common between the corporate debtor and such person; or (iii) interchange of managerial personnel between the corporate debtor and such person; or (iv) provision of essential technical information to, or from, the corporate debtor;"}
+{"text": "related party: , in relation to an individual, means: (a) a person who is a relative of the individual or a relative of the spouse of the individual; (b) a partner of a limited liability partnership, or a limited liability partnership or a partnership firm, in which the individual is a partner; (c) a person who is a trustee of a trust in which the beneficiary of the trust includes the individual, or the terms of the trust confers a power on the trustee which may be exercised for the benefit of the individual; (d) a private company in which the individual is a director and holds along with his relatives, more than two per cent. of its share capital; (e) a public company in which the individual is a director and holds along with relatives, more than two per cent. of its paid-up share capital; (f) a body corporate whose board of directors, managing director or manager, in the ordinary course of business, acts on the advice, directions or instructions of the individual; (g) a limited liability partnership or a partnership firm whose partners or employees in the ordinary course of business, act on the advice, directions or instructions of the individual; (h) a person on whose advice, directions or instructions, the individual is accustomed to act; (i) a company, where the individual or the individual along with its related party, own more than fifty per cent. of the share capital of the company or controls the appointment of the board of directors of the company. Explanation: For the purposes of this clause, \u2013 (a) \u201crelative\u201d, with reference to any person, means anyone who is related to another, in the following manner, namely: (i) members of a Hindu Undivided Family, (ii) husband, (iii) wife, (iv) father, (v) mother, (vi) son, (vii) daughter, (viii) son\u2019s daughter and son, (ix) daughter\u2019s daughter and son, (x) grandson\u2019s daughter and son, (xi) granddaughter\u2019s daughter and son, (xii) brother, (xiii) sister, (xiv) brother\u2019s son and daughter, (xv) sister\u2019s son and daughter, (xvi) father\u2019s father and mother, (xvii) mother\u2019s father and mother, (xviii) father\u2019s brother and sister, (xix) mother\u2019s brother and sister; and (b) wherever the relation is that of a son, daughter, sister or brother, their spouses shall also be included;"}
+{"text": "resolution applicant: means a person, who individually or jointly with any other person, submits a resolution plan to the resolution professional pursuant to the invitation made under clause (h) of sub-section (2) of section 25 or pursuant to section 54K, as the case may be;"}
+{"text": "resolution plan: means a plan proposed by resolution applicant for insolvency resolution of the corporate debtor as a going concern in accordance with Part II Explanation: For removal of doubts, it is hereby clarified that a resolution plan may include provisions for the restructuring of the corporate debtor, including by way of merger, amalgamation and demerger;"}
+{"text": "resolution professional: , for the purposes of this Part, means an insolvency professional appointed to conduct the corporate insolvency resolution process or the prepackaged insolvency resolution process, as the case may be, and includes an interim resolution professional; and"}
+{"text": "voting share: means the share of the voting rights of a single financial creditor in the committee of creditors which is based on the proportion of the financial debt owed to such financial creditor in relation to the financial debt owed by the corporate debtor."}
+{"text": "Adjudicating Authority: means the Debt Recovery Tribunal constituted under sub-section (1) of section 3 of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (51 of 1993);"}
+{"text": "associate: of the debtor means\u2014 (a) a person who belongs to the immediate family of the debtor; (b) a person who is a relative of the debtor or a relative of the spouse of the debtor; (c) a person who is in partnership with the debtor; (d) a person who is a spouse or a relative of any person with whom the debtor is in partnership; (e) a person who is employer of the debtor or employee of the debtor; (f) a person who is a trustee of a trust in which the beneficiaries of the trust include a debtor, or the terms of the trust confer a power on the trustee which may be exercised for the benefit of the debtor; and (g) a company, where the debtor or the debtor along with his associates, own more than fifty per cent. of the share capital of the company or control the appointment of the board of directors of the company. Explanation: .\u2014For the purposes of this clause, \u201crelative\u201d, with reference to any person, means anyone who is related to another, if\u2014 they are members of a Hindu Undivided Family; one person is related to the other in such manner as may be prescribed;"}
+{"text": "bankrupt: means\u2014 (a) a debtor who has been adjudged as bankrupt by a bankruptcy order under section 126; (b) each of the partners of a firm, where a bankruptcy order under section 126 has been made against a firm; or (c) any person adjudged as an undischarged insolvent;"}
+{"text": "bankruptcy: means the state of being bankrupt;"}
+{"text": "bankruptcy debt: , in relation to a bankrupt, means\u2014 (a) any debt owed by him as on the bankruptcy commencement date; (b) any debt for which he may become liable after bankruptcy commencement date but before his discharge by reason of any transaction entered into before the bankruptcy commencement date; and (c) any interest which is a part of the debt under section 171;"}
+{"text": "bankruptcy commencement date: means the date on which a bankruptcy order is passed by the Adjudicating Authority under section 126;"}
+{"text": "bankruptcy order: means an order passed by an Adjudicating Authority under section 126;"}
+{"text": "bankruptcy process: means a process against a debtor under Chapters IV and V of this Part;"}
+{"text": "bankruptcy trustee: means the insolvency professional appointed as a trustee for the estate of the bankrupt under section 125;"}
+{"text": "Chapter: means a chapter under this Part;"}
+{"text": "committee of creditors: means a committee constituted under section 134;"}
+{"text": "debtor: includes a judgment-debtor;"}
+{"text": "discharge order: means an order passed by the Adjudicating Authority discharging the debtor under sections 92, 119 and section 138, as the case may be;"}
+{"text": "excluded assets: for the purposes of this part includes\u2014 (a) unencumbered tools, books, vehicles and other equipment as are necessary to the debtor or bankrupt for his personal use or for the purpose of his employment, business or vocation, (b) unencumbered furniture, household equipment and provisions as are necessary for satisfying the basic domestic needs of the bankrupt and his immediate family; (c) any unencumbered personal ornaments of such value, as may be prescribed, of the debtor or his immediate family which cannot be parted with, in accordance with religious usage; (d) any unencumbered life insurance policy or pension plan taken in the name of debtor or his immediate family; and (e) an unencumbered single dwelling unit owned by the debtor of such value as may be prescribed;"}
+{"text": "excluded debt: means\u2014 (a) liability to pay fine imposed by a court or tribunal; (b) liability to pay damages for negligence, nuisance or breach of a statutory, contractual or other legal obligation; (c) liability to pay maintenance to any person under any law for the time being in force; (d) liability in relation to a student loan; and (e) any other debt as may be prescribed;"}
+{"text": "firm: means a body of individuals carrying on business in partnership whether or not registered under section 59 of the Indian Partnership Act, 1932 (9 of 1932);"}
+{"text": "immediate family: of the debtor means his spouse, dependent children and dependent parents;"}
+{"text": "partnership debt: means a debt for which all the partners in a firm are jointly liable;"}
+{"text": "qualifying debt: means amount due, which includes interest or any other sum due in respect of the amounts owed under any contract, by the debtor for a liquidated sum either immediately or at certain future time and does not include\u2014 (a) an excluded debt; (b) a debt to the extent it is secured; and (c) any debt which has been incurred three months prior to the date of the application for fresh start process;"}
+{"text": "repayment plan: means a plan prepared by the debtor in consultation with the resolution professional under section 105 containing a proposal to the committee of creditors for restructuring of his debts or affairs;"}
+{"text": "resolution professional: means an insolvency professional appointed under this part as a resolution professional for conducting the fresh start process or insolvency resolution process;"}
+{"text": "undischarged bankrupt: means a bankrupt who has not received a discharge order under section 138."}
+{"text": "Affidavit: A written statement confirmed by oath or affirmation, used as evidence in court."}
+{"text": "Appeal: A legal process by which a higher court is asked to review the decision of a lower court."}
+{"text": "Bail: Temporary release of an accused person awaiting trial, sometimes on the condition of payment."}
+{"text": "Cognizance: Formal notice or acknowledgment taken by a court of an offense or case."}
+{"text": "Complaint: A formal legal document outlining the charges or claims against a defendant."}
+{"text": "Cross-Examination: The questioning of a witness by the opposing party in a court case."}
+{"text": "Decree: A formal and authoritative order, especially one having the force of law in a civil case."}
+{"text": "Defendant: The person or party against whom a legal action is brought in court."}
+{"text": "Evidence: Any information, such as testimony, documents, or physical objects, presented in court to prove or disprove a fact."}
+{"text": "FIR (First Information Report): A written report filed by the police after receiving information about a cognizable offense."}
+{"text": "Habeas Corpus: A legal writ demanding that a person be brought before a judge, particularly to secure release from unlawful detention."}
+{"text": "Injunction: A court order requiring an individual or entity to do or refrain from doing a specific act."}
+{"text": "Jurisdiction: The legal authority of a court to hear and decide a particular case."}
+{"text": "Litigation: The process of taking legal action or resolving disputes in court."}
+{"text": "Petitioner: The party who presents a petition to the court in a legal case."}
+{"text": "Prosecution: The party conducting legal proceedings against someone in respect of a criminal charge."}
+{"text": "Plaintiff: A person who brings a legal action in a civil case."}
+{"text": "Writ: A formal written order issued by a court directing someone to perform or refrain from performing a specified act."}
+{"text": "Judgment: The final decision or ruling by a court in a legal case."}
+{"text": "Summons: A legal document ordering a person to appear in court."}
+{"text": "Subpoena: A court order requiring a person to attend court to give testimony or present evidence."}
+{"text": "Tort: A civil wrong that causes harm or loss, for which a remedy may be sought in court."}
+{"text": "Conviction: A formal declaration by a court that someone is guilty of a criminal offense."}
+{"text": "Acquittal: A legal judgment that a person is not guilty of the crime with which they have been charged."}
+{"text": "Cross-Petition: A petition filed in response to an original petition, often seeking different relief."}
+{"text": "Perjury: The offense of willfully telling an untruth in a court after having taken an oath or affirmation."}
+{"text": "Probate: The legal process of proving and registering the last will of a deceased person."}
+{"text": "Remand: The act of sending a prisoner or accused person back into custody, or the act of sending a case back to a lower court for further action."}
+{"text": "Appeal: A legal process by which a case is brought before a higher court for review of a lower court\u02bcs judgment."}
+{"text": "Quash: To nullify or void a legal proceeding, such as an FIR or an indictment."}
+{"text": "Breach of Contract: The violation of the terms agreed upon in a legal contract."}
+{"text": "Juror: A member of a jury, a group of people selected to determine the facts of a case and deliver a verdict."}
+{"text": "Damages: Monetary compensation awarded to a party in a legal case to cover losses or injuries."}
+{"text": "Defamation: The act of damaging someone\u02bcs reputation by making false statements, either spoken (slander) or written (libel)."}
+{"text": "Deponent: A person who gives a deposition or swears to an affidavit."}
+{"text": "Bailment: The transfer of possession of goods or property by one party to another under contract."}
+{"text": "Adjudication: The legal process of resolving a dispute; the act of making a judgment or decision."}
+{"text": "Stay Order: A court order to temporarily suspend the execution or enforcement of a judgment or proceeding."}
+{"text": "Parole: The conditional release of a prisoner before the completion of their sentence."}
+{"text": "Mutatis Mutandis: A Latin phrase meaning \u201cwith the necessary changes having been made\u201d; used in legal contexts to indicate that a previous statement applies with slight modifications."}
+{"text": "Caveat: A formal notice requesting the court to suspend a proceeding until the party filing the caveat has been heard."}
+{"text": "Specific Performance: A legal remedy in contract law where the court orders the party in breach to fulfill their contractual obligations."}
+{"text": "Contempt of Court: An act of disobedience or disrespect toward the judicial system, which may result in penalties or punishment."}
+{"text": "Restitution: The act of restoring something to its rightful owner or compensating for a loss or damage."}
+{"text": "Estoppel: A legal principle that prevents a party from contradicting or asserting something contrary to what has previously been established as truth."}
+{"text": "Mens Rea: The mental element of a crime, referring to the defendant\u02bcs intention or knowledge of wrongdoing."}
+{"text": "Actus Reus: The physical act of committing a crime, as opposed to the mental intent to commit it."}
+{"text": "Surety: A person who takes responsibility for another\u02bcs performance of an obligation, such as repaying a loan."}
+{"text": "Willful Default: The deliberate failure to fulfill an obligation, especially in financial matters."}
+{"text": "Abet: To encourage or assist someone to commit a crime  USAGE IN SENCETNCE: \nHe was charged with abetting the criminal by providing him shelter."}
+{"text": "Accused: A person charged with a criminal offense  USAGE IN SENCETNCE: \nThe accused pleaded not guilty during the court hearing."}
+{"text": "Acquittal: A judgment that a person is not guilty of the crime  USAGE IN SENCETNCE: \nAfter a lengthy trial, the court ruled for the acquittal of the defendant."}
+{"text": "Bail: Temporary release of an accused person awaiting trial  USAGE IN SENCETNCE: \nThe accused was granted bail by the court pending the trial."}
+{"text": "Beneficiary: A person entitled to benefits or proceeds from a will or trust  USAGE IN SENCETNCE: \nThe court recognized her as the sole beneficiary of her father\u02bcs estate."}
+{"text": "Bench: The seat occupied by judges in a court  USAGE IN SENCETNCE: \nA five-judge bench was constituted to hear the constitutional case."}
+{"text": "Caveat: A formal notice requesting a court to suspend proceedings until the party filing the caveat is heard  USAGE IN SENCETNCE: \nThe company filed a caveat to ensure no orders are passed without its knowledge."}
+{"text": "Cognizance: A court\u02bcs acknowledgement of a legal matter to be heard  USAGE IN SENCETNCE: \nThe judge took cognizance of the matter and summoned the accused for trial."}
+{"text": "Contempt of Court: Willful disobedience or disrespect towards court rules or authority  USAGE IN SENCETNCE: \nThe activist was held in contempt of court for disrupting the proceedings."}
+{"text": "Damages: Compensation, usually monetary, awarded to someone for loss or injury  USAGE IN SENCETNCE: \nThe court ordered the company to pay damages for breaching the contract."}
+{"text": "Decree: A formal order or judgment by the court  USAGE IN SENCETNCE: \nThe court passed a decree in favor of the plaintiff, granting them ownership of the disputed property."}
+{"text": "Defamation: The act of damaging someone\u02bcs reputation by making false statements  USAGE IN SENCETNCE: \nThe celebrity filed a defamation suit against the media company for publishing false accusations."}
+{"text": "Evidence: Any information presented in a legal case to prove or disprove facts  USAGE IN SENCETNCE: \nThe prosecutor presented new evidence to support the charges against the defendant."}
+{"text": "Equity: The application of principles of fairness and justice in legal matters  USAGE IN SENCETNCE: \nThe court made its decision based on equity, ensuring fairness to both parties."}
+{"text": "Embezzlement: Fraudulent appropriation of funds by someone entrusted with them  USAGE IN SENCETNCE: \nThe accountant was charged with embezzlement after diverting company funds into personal accounts."}
+{"text": "FIR (First Information Report): A formal written document prepared by the police when they receive information about a cognizable offense  USAGE IN SENCETNCE: \nThe victim immediately filed an FIR with the local police station after the robbery."}
+{"text": "Fraud: Wrongful or criminal deception intended to result in financial or personal gain  USAGE IN SENCETNCE: \nThe businessman was arrested for committing fraud by forging financial documents."}
+{"text": "Frivolous Litigation: Legal action with no sound basis, often used to harass or delay the process  USAGE IN SENCETNCE: \nThe court dismissed the lawsuit, labeling it as frivolous litigation intended to waste time."}
+{"text": "Garnishee: A person or institution that is ordered by the court to surrender money or property belonging to a debtor  USAGE IN SENCETNCE: \nThe bank was named as a garnishee to withhold the debtor\u02bcs funds for the court."}
+{"text": "Guardian: A person legally appointed to manage the affairs of a minor or someone incapable of managing their own affairs  USAGE IN SENCETNCE: \nAfter the parents passed away, the uncle was appointed as the legal guardian of the minor children."}
+{"text": "Grievance: A formal complaint raised by an individual, typically in a legal or workplace context  USAGE IN SENCETNCE: \nThe employee filed a grievance against the company for unfair dismissal."}
+{"text": "Habeas Corpus: A legal action or writ requiring a person under arrest to be brought before a judge to secure their release unless lawful grounds are shown for their detention  USAGE IN SENCETNCE: \nThe lawyer filed a writ of habeas corpus to challenge the illegal detention of the accused."}
+{"text": "Hearsay: Information received from others that cannot be substantiated and is not admissible as evidence  USAGE IN SENCETNCE: \nThe court dismissed the witness\u02bcs statement as hearsay since it lacked direct evidence."}
+{"text": "Heir: A person legally entitled to the property or rank of another upon their death  USAGE IN SENCETNCE: \nAfter his father\u02bcs death, he became the rightful heir to the family estate."}
+{"text": "Injunction: A court order requiring a party to do or refrain from doing a specific act  USAGE IN SENCETNCE: \nThe court granted an injunction preventing the company from selling the disputed property."}
+{"text": "Immunity: Legal protection from prosecution or penalties  USAGE IN SENCETNCE: \nThe witness was granted immunity in exchange for testifying against the accused."}
+{"text": "Indictment: A formal accusation initiating a criminal case  USAGE IN SENCETNCE: \nThe grand jury issued an indictment against the businessman for fraud and embezzlement."}
+{"text": "Judgment: The final decision or ruling by a court in a legal matter  USAGE IN SENCETNCE: \nThe court delivered its judgment, ruling in favor of the plaintiff."}
+{"text": "Jurisdiction: The legal authority of a court to hear and decide a case  USAGE IN SENCETNCE: \nThe High Court has jurisdiction over cases involving constitutional issues."}
+{"text": "Jurisprudence: The theory or philosophy of law  USAGE IN SENCETNCE: \nThe lawyer\u02bcs argument was grounded in legal jurisprudence and historical case laws."}
+{"text": "Kidnapping: The unlawful taking away or transportation of a person, usually to hold them against their will  USAGE IN SENCETNCE: \nThe accused was charged with kidnapping the child for ransom."}
+{"text": "Knowingly: With full awareness or intention  USAGE IN SENCETNCE: \nThe defendant was found guilty of knowingly engaging in fraudulent activities."}
+{"text": "Knowledge: Awareness or understanding of facts, law, or a situation  USAGE IN SENCETNCE: \nThe defendant claimed to have no knowledge of the illegal activities being conducted by his associates."}
+{"text": "Landlord: A person who owns property and rents it to a tenant  USAGE IN SENCETNCE: \nThe landlord filed a case against the tenant for failing to pay rent on time."}
+{"text": "Lawsuit: A legal action brought by one party against another  USAGE IN SENCETNCE: \nThe company faced a lawsuit over allegations of environmental damage."}
+{"text": "Legal Heir: A person legally entitled to inherit the property of a deceased person  USAGE IN SENCETNCE: \nThe court recognized him as the legal heir to his father\u02bcs estate."}
+{"text": "Magistrate: A judicial officer who handles minor legal cases and preliminary hearings  USAGE IN SENCETNCE: \nThe magistrate granted bail to the accused after the preliminary hearing."}
+{"text": "Maintenance: Financial support given by one person to another, typically after a divorce or separation  USAGE IN SENCETNCE: \nThe court ordered the husband to pay monthly maintenance to his ex-wife after their divorce."}
+{"text": "Malfeasance: Wrongdoing or misconduct, especially by a public official  USAGE IN SENCETNCE: \nThe politician was accused of malfeasance for misusing public funds for personal gain."}
+{"text": "Natural Justice: Legal philosophy ensuring fairness, equality, and impartiality in decision-making  USAGE IN SENCETNCE: \nThe court upheld the principles of natural justice by allowing both parties to present their case."}
+{"text": "Notary: A public official authorized to authenticate legal documents and administer oaths  USAGE IN SENCETNCE: \nThe agreement was signed in the presence of a notary to ensure its legal validity."}
+{"text": "Negligence: Failure to exercise the care that a reasonably prudent person would exercise in similar circumstances  USAGE IN SENCETNCE: \nThe doctor was sued for negligence after failing to diagnose the patient\u02bcs illness in time."}
+{"text": "Oath: A solemn promise, often invoking a divine witness, regarding one\u02bcs future actions or behavior  USAGE IN SENCETNCE: \nThe witness took an oath to tell the truth before testifying in court."}
+{"text": "Objection: A formal protest raised during a trial or hearing regarding the admissibility of evidence or testimony  USAGE IN SENCETNCE: \nThe defense attorney raised an objection to the prosecutor\u02bcs line of questioning."}
+{"text": "Offender: A person who has committed a crime or illegal act  USAGE IN SENCETNCE: \nThe offender was sentenced to five years in prison for theft."}
+{"text": "Plaintiff: A person who brings a legal action or lawsuit against another party  USAGE IN SENCETNCE: \nThe plaintiff filed a suit for damages after the contract was breached."}
+{"text": "Prosecution: The legal party responsible for presenting a case against an individual accused of a crime  USAGE IN SENCETNCE: \nThe prosecution provided substantial evidence to prove the guilt of the accused."}
+{"text": "Precedent: A legal decision that serves as an example or rule for future cases  USAGE IN SENCETNCE: \nThe court\u02bcs decision followed the legal precedent established by previous rulings."}
+{"text": "Quash: To reject or void a legal decision, order, or indictment  USAGE IN SENCETNCE: \nThe court decided to quash the charges against the defendant due to lack of evidence."}
+{"text": "Quantum Meruit: A Latin term meaning \u201cas much as he deserves,\u201d referring to the reasonable value of services rendered  USAGE IN SENCETNCE: \nThe contractor was entitled to payment based on quantum meruit for the work completed before the contract was terminated."}
+{"text": "Quasi-Judicial: A body or authority having powers and procedures resembling those of a court of law  USAGE IN SENCETNCE: \nThe regulatory commission acted as a quasi-judicial body in resolving the dispute."}
+{"text": "Remand: To send a case or an accused person back to a lower court or into custody for further investigation  USAGE IN SENCETNCE: \nThe judge remanded the accused to police custody for further questioning."}
+{"text": "Rebuttal: A counterargument or evidence presented to contradict or disprove something  USAGE IN SENCETNCE: \nThe defense presented a strong rebuttal to challenge the prosecution\u02bcs claims."}
+{"text": "Restitution: Compensation or return of something to its rightful owner, or restoring a party to its original position  USAGE IN SENCETNCE: \nThe court ordered restitution to the victims of the fraud, ensuring they received their money back."}
+{"text": "Summons: A legal document issued by a court requiring someone to appear in court  USAGE IN SENCETNCE: \nThe defendant received a summons to appear in court for the hearing."}
+{"text": "Subpoena: A legal order requiring a person to testify or produce evidence in court  USAGE IN SENCETNCE: \nThe witness was served with a subpoena to testify at the trial."}
+{"text": "Settlement: An agreement reached between parties to resolve a legal dispute without going to trial  USAGE IN SENCETNCE: \nThe parties reached a settlement before the case went to trial, avoiding lengthy litigation."}
+{"text": "Tort: A civil wrong causing harm or loss for which a remedy may be sought in court  USAGE IN SENCETNCE: \nThe plaintiff filed a tort claim for damages caused by the defendant\u02bcs negligence."}
+{"text": "Testamentary: Relating to a will or the distribution of assets after death  USAGE IN SENCETNCE: \nThe court upheld the testamentary trust created by the deceased\u02bcs will."}
+{"text": "Testimony: A formal statement given by a witness under oath in court  USAGE IN SENCETNCE: \nThe witness\u02bcs testimony played a crucial role in the conviction of the accused."}
+{"text": "Ultra Vires: Acts beyond the legal authority or power of a person or institution  USAGE IN SENCETNCE: \nThe court ruled that the company\u02bcs actions were ultra vires, as they exceeded the powers granted by the articles of incorporation."}
+{"text": "Undue Influence: Excessive pressure or manipulation exerted on someone to act against their free will  USAGE IN SENCETNCE: \nThe plaintiff argued that the contract was signed under undue influence and was therefore invalid."}
+{"text": "Unlawful Detention: The act of holding someone without legal authority or justification  USAGE IN SENCETNCE: \nThe accused filed a petition for release, claiming unlawful detention by the police."}
+{"text": "Verdict: The formal decision or finding made by a jury or judge in a legal case  USAGE IN SENCETNCE: \nThe jury delivered a guilty verdict after deliberating for several hours."}
+{"text": "Vicarious Liability: Legal responsibility imposed on one person for the actions of another, typically an employer for the acts of an employee  USAGE IN SENCETNCE: \nThe company was held vicariously liable for the actions of its employee during the course of his duties."}
+{"text": "Void: Having no legal effect or validity; null  USAGE IN SENCETNCE: \nThe contract was declared void due to the lack of mutual consent between the parties."}
+{"text": "Warrant: A legal document authorizing law enforcement to carry out an action such as an arrest or search  USAGE IN SENCETNCE: \nThe police executed an arrest warrant for the suspect involved in the robbery."}
+{"text": "Waiver: The voluntary relinquishment or abandonment of a legal right or claim  USAGE IN SENCETNCE: \nThe tenant signed a waiver, giving up their right to demand repairs from the landlord."}
+{"text": "Will: A legal document in which a person declares how their assets will be distributed after death  USAGE IN SENCETNCE: \nThe deceased left a will, distributing his property among his children."}
+{"text": "Xerox: A trademarked term that has become synonymous with photocopying, often used in legal cases to refer to copies of documents  USAGE IN SENCETNCE: \nThe lawyer asked for xerox copies of all the evidence to be submitted to the court."}
+{"text": "Xenophobia: A fear or hatred of foreigners, often referenced in human rights and discrimination cases  USAGE IN SENCETNCE: \nThe court addressed the issue of xenophobia in the workplace, ordering the company to implement anti-discrimination policies."}
+{"text": "X Clause: A placeholder term sometimes used in contracts to represent a term or condition that will be defined later  USAGE IN SENCETNCE: \nThe agreement included an X clause, which the parties agreed to finalize before the project\u02bcs commencement."}
+{"text": "Year and a Day Rule: A common law rule that states a person cannot be charged with homicide if the victim dies more than a year and a day after the act that caused the injury  USAGE IN SENCETNCE: \nUnder the year and a day rule, the suspect could not be charged with murder because the victim passed away 15 months later."}
+{"text": "Yellow Dog Contract: A contract in which an employee agrees not to join a labor union as a condition of employment  USAGE IN SENCETNCE: \nYellow dog contracts were once used by employers to prevent workers from organizing unions."}
+{"text": "Youth Court: A specialized court that deals with crimes committed by minors  USAGE IN SENCETNCE: \nThe case involving the minor was transferred to the youth court for trial."}
+{"text": "Zero Hour: The time immediately following the start of a legislative session, often used for raising urgent issues without prior notice  USAGE IN SENCETNCE: \nThe members of parliament raised the issue of environmental pollution during Zero Hour."}
+{"text": "Zoning: The regulation of land use by local authorities to allocate areas for different types of development and land use  USAGE IN SENCETNCE: \nThe city council enforced new zoning laws to separate residential and commercial areas."}
+{"text": "Zoning Ordinance: A law that defines how property in specific geographic zones can be used  USAGE IN SENCETNCE: \nThe new zoning ordinance prohibits the construction of high- rise buildings in the heritage area."}
+{"text": "Abandonment: giving up a legal right."}
+{"text": "Abatement is:: cancelling a writ or action; stopping a nuisance;reducing the payments to creditors in proportion, if there is not enough money to pay them in full; or reducing the bequests in a will, in proportion, when there is not enough money to pay them in full."}
+{"text": "Abduction: taking someone away by force."}
+{"text": "Ab initio: from the start of something. (This phrase is Latin.)"}
+{"text": "Abovementioned: describing something which has been referred to before in the document."}
+{"text": "Abscond: when a person fails to present themselves before the court when required, such as when they have been released on bail and not returned to court."}
+{"text": "Absolute: complete and unconditional."}
+{"text": "Absolute discharge: someone who has been convicted of an offence being released without any penalty. (They may still have to pay compensation though.)"}
+{"text": "Absolute owner: the only owner of property such as equipment, buildings, land or vehicles."}
+{"text": "Absolute privilege: a defence which can be used in a case of defamation if the statement from which the defamation arose was:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 made in Parliament;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 in fair and accurate news reporting of court proceedings; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 made during court proceedings."}
+{"text": "Abstract of title: a document, drawn up by the seller, summarising the title deeds to a property (such as a house)."}
+{"text": "Abuse of process: when criminal proceedings are brought against a, person without there being any good reason and with malice."}
+{"text": "Abuttals: the parts of the boundaries of a piece of land which touch pieces of land alongside."}
+{"text": "Acceptance: when an offer is accepted unconditionally and a legally binding agreement is created."}
+{"text": "Acceptance of service: when a solicitor accepts a writ on behalf of a client."}
+{"text": "Acceptor: the organisation (such as a bank) which will pay the cheque or bill of exchange it has accepted."}
+{"text": "Accessory: someone who encourages or helps another person to commit a crime."}
+{"text": "Accomplice: someone who helps another person to commit a crime."}
+{"text": "Accordingly: a word used in legal documents which means therefore or so."}
+{"text": "Accounts: the record of an organisation's income, spending and financial situation."}
+{"text": "Accumulation: reinvesting income generated by a fund back into the fund."}
+{"text": "Accused: the person charged with a criminal offence."}
+{"text": "Acknowledgement: admitting that someone has a claim or admitting that a debt exists."}
+{"text": "Acknowledgement of Service: when a defendant agrees that a writ or originating summons ('claim form' since April 1999) has been received. The defendant fills in, signs and sends back the acknowledgement of service to confirm in writing that the documents were received."}
+{"text": "Acquit: when a court lets a person go without any penalty. If a court decides that a person is not guilty of a crime, or the case has not been proved, it will acquit the person."}
+{"text": "Acquittal: the court's decision that a person is innocent of the crime they were charged with."}
+{"text": "Action: using the law to make a claim."}
+{"text": "Active trust: a trust where the trustees have other responsibilities rather than to just let the beneficiaries have the trust's assets when they ask for them."}
+{"text": "Act of bankruptcy: an act which, if carried out by a person with debts, could have led to bankruptcy proceedings against that person."}
+{"text": "Act of God: an extreme naturally occurring event (such as an earthquake, avalanche or flood) that could not have been anticipated."}
+{"text": "Actual bodily harm: hurting another person but less severely than would amount to grievous bodily harm."}
+{"text": "Actual loss: an insurance term which means that the insured item no longer exists."}
+{"text": "Actuary: an expert on pension scheme assets and liabilities, life expectancy and probabilities (the likelihood of things happening) for insurance purposes. An actuary works out whether enough money is being paid into a pension scheme to pay the pensions when they are due."}
+{"text": "Actus reus: an act which is illegal, such as theft. (This term is Latin.)"}
+{"text": "Additional voluntary contribution (AVC): extra money people in occupational pension schemes can pay in to increase their pension benefits."}
+{"text": "Ademption: when a gift in a will cannot be made because the item no longer exists."}
+{"text": "Ad hoc: for a particular purpose. For example, a committee set up to deal with a particular situation is an ad hoc committee. (This term is Latin.)"}
+{"text": "Ad idem: in agreement. (This term is Latin.)"}
+{"text": "Ad infinitum: endlessly or forever. (This term is Latin.)"}
+{"text": "Adjourned sine die: when a court case has no date fixed for it to continue."}
+{"text": "Adjournment: postponing a court hearing."}
+{"text": "Adjudge/adjudicate: to give an official judgement about something. For example, if someone cannot pay their debts a court may adjudge them bankrupt."}
+{"text": "Adjudication order: the former name for a court order which made someone bankrupt. It has now been replaced with the term bankruptcy order."}
+{"text": "Administration order: an order made by a county court when a person or a company cannot pay their debts. Normally the court orders that the debts are repaid by instalments and as long as the debtor keeps to the order the creditors cannot do anything else to recover their money."}
+{"text": "Administrator: someone who has been appointed:to manage the affairs of a bankrupt business; or to manage the estate of someone who has died without leaving a will."}
+{"text": "Admissibility of Evidence: which evidence can be presented in court. Evidence must be relevant to the case but even some relevant evidence cannot be presented, such as hearsay or evidence of little value. The judge decides whether or not evidence can be used in the case."}
+{"text": "Admission: one side in a case agreeing that something the other side has alleged is true."}
+{"text": "Admonition: reprimanding of a defendant by a judge even though the case against the defendant has been discharged (dropped)."}
+{"text": "Adoption: the system which people use to become parents, even though they are not the child's natural parents."}
+{"text": "Adoptive child: a child who has been legally adopted."}
+{"text": "Adoptive parent: a person who has legally adopted a child."}
+{"text": "Ad valorem: in proportion to the value. An ad valorem duty goes up as the value of the goods, shares and so on that it is charged on rises. (This term is Latin.)"}
+{"text": "Adverse possession: intentionally occupying land to prevent the rightful owner or tenant using it."}
+{"text": "Adverse witness: a witness who gives evidence which damages the case of the side which asked the witness to testify for them."}
+{"text": "Advocate: is: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the lawyer who speaks in court for a client; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a Scottish lawyer who is the equivalent of a barrister in England and Wales."}
+{"text": "Affidavit: a written statement which is sworn to be true by the person signing it. It is sworn before someone authorised by the court."}
+{"text": "Affirm: to: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 solemnly promise to tell the truth in court;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 solemnly promise to tell the truth in an affidavit;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 confirm a decision made by a lower court; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 allow a contract to continue even though it could have been cancelled because it was fundamentally breached."}
+{"text": "Affirmation: solemnly promising to tell the truth when giving evidence. It is an alternative to swearing an oath when the person giving evidence does not wish to."}
+{"text": "Affray: fighting unlawfully. It is a criminal offence."}
+{"text": "Aforementioned: describing something referred to previously in the document."}
+{"text": "Aforesaid: describing something which has been said or referred to before in the document."}
+{"text": "Agency: the relationship between a principal and an agent."}
+{"text": "Agent: someone appointed to act for a principal."}
+{"text": "Age of consent: the age when a person can consent to have sexual intercourse. In the UK it is 16."}
+{"text": "Aggravated assault: a more serious type of assault such as one leading to actual bodily harm."}
+{"text": "Aggravated burglary: entering premises armed with a weapon, intending to steal goods."}
+{"text": "Aggravated damages: extra damages awarded because the defendant has caused the victim anguish, loss of self-respect or shame."}
+{"text": "Aggravated vehicle taking: stealing a vehicle, driving it dangerously and as a result injuring someone or damaging property."}
+{"text": "Agricultural holding: a type of tenancy agreement for someone doing agricultural work. The tenant has special rights including, when the tenancy finishes, the right to compensation for improvements to the land. If the land has deteriorated the tenant must compensate the landlord."}
+{"text": "Aiding and abetting: helping someone to commit a crime."}
+{"text": "Airspace: the space in the atmosphere directly above a piece of land. If you own a piece of land you also own the airspace above the land."}
+{"text": "Alias: a false name."}
+{"text": "Alibi: a claim that a person was elsewhere when a crime was committed. If someone is accused of a crime their alibi is:\n\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 evidence that the person was somewhere else when the crime was committed; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 evidence that the person was somewhere else when the crime was committed; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 an attempt to prove that the \u00af.person was somewhere else when the crime was committed."}
+{"text": "Alien: someone from a foreign country."}
+{"text": "Alienation: transferring the ownership of property from one person to another."}
+{"text": "All and sundry: everybody."}
+{"text": "Allegation: an unproved statement declaring that something has happened."}
+{"text": "Alleviate: to lessen or reduce."}
+{"text": "Allocation rate: the proportion of money left to be invested after charges have been taken off when money is paid into a fund (such as a pension fund). For example, if the charges were 2%, the allocation rate would be 98%."}
+{"text": "Allotment: shares allocated to a buyer. An allotment of shares in a company gives the owner (of the allotment) an unconditional right to buy the shares at a fixed price."}
+{"text": "All that: words used in a conveyance to introduce the description of the property which is being conveyed."}
+{"text": "Alternate director: a person appointed by a director to take the director's place."}
+{"text": "Alternative verdict: a person being found guilty of a less serious crime than the one they were charged with. If a more serious charge has not been proved and the defendant has been found not guilty, the defendant may be found guilty of a less serious crime instead. For example, there may not be enough evidence to convict someone of a murder but there may still be enough for a manslaughter conviction. This is known as an alternative verdict."}
+{"text": "Amalgamation: two or more companies combining."}
+{"text": "Ambiguity: capability of more than one meaning. When a statement's meaning is not clear because it is capable of more than one meaning, it contains an ambiguity."}
+{"text": "Ambulatory will: a will which can be revoked or changed while the person who made it is still living."}
+{"text": "Amnesty: not punishing a person for an offence they have committed and removing details of the offence from the court's records is giving the person an amnesty."}
+{"text": "Ancient lights: the right not to have the light you receive from a neighbour's land blocked."}
+{"text": "Annual accounts: the summary of an organisation's financial transactions during the year covered by their accounts, and a 'snapshot' of the assets and liabilities at the end of the year."}
+{"text": "Annual general Meeting: the yearly meeting of the members of an organisation which must be held to meet legal conditions. The annual accounts are presented for approval at this meeting."}
+{"text": "Annual return: a return which must be sent by companies to the Registrar of Companies. Each year the officers of a company have to fill in an annual return with details of the members, officers, shares issued and other information about the company. The return is then sent to Companies House for filing and is available for inspection by members of the public."}
+{"text": "Annuitant: the person who gets paid an annuity."}
+{"text": "Annuity: an amount paid out every year to someone. The money usually comes from an insurance policy. It can be split up into smaller amounts and be paid out more frequently, such as monthly. It is usually paid for the rest of the beneficiary's life."}
+{"text": "Annul: to cancel:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 an invalid marriage; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a bankruptcy order."}
+{"text": "Ante: before. (This is a Latin word.)"}
+{"text": "Antecedents: details about the past of a defendant or a person found guilty of a crime. The information about previous crimes, background and bad behaviour is given to the court before the sentence is given."}
+{"text": "Antenuptial agreement: a legal agreement between two people who are about to get married. The agreement sets out how the couple's assets will be divided between them if they later divorce."}
+{"text": "Anton Piller order: an order by the High Court. It gives the applicant permission to search the defendant's premises for evidence, inspect it and take it away. It is intended to prevent evidence being destroyed or hidden which would be relevant to the case. (Since April 1999, this has been known as a 'search order'.)"}
+{"text": "Appeal: asking a court to overturn a lower court's decision. If the decision of a court is disputed it may be possible to ask a higher court to consider the case again by lodging an appeal."}
+{"text": "Appellant: the person who is appealing to a court against a decision of a lower court."}
+{"text": "Appellate jurisdiction: the authority a court has to hear an appeal against a decision made by a lower court."}
+{"text": "Appertaining to Applicant: the person asking a court to do something."}
+{"text": "Appointee: the person who gets the benefit of the use of a power of appointment."}
+{"text": "Appointor: the person who uses a power of appointment."}
+{"text": "Appurtenances: minor rights in land such as a right to do something on the land."}
+{"text": "Arbitrage: is:\n\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 borrowing money at a low rate of interest to lend out again at a higher rate; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 buying and selling in different markets to make profits out of the price differences."}
+{"text": "Arbitration: settling a dispute by using a referee. If a dispute goes to arbitration it is settled by an independent referee. It avoids having to use the courts to settle the dispute."}
+{"text": "Arbitrator: the independent referee who settles a dispute without the need to use the courts."}
+{"text": "Arraignment: a procedure at the start of a trial when details of the offences are read out and the defendants are asked whether they will plead guilty or not guilty."}
+{"text": "Arrest: to seize someone, usually because they are suspected of committing a crime, and take them into custody."}
+{"text": "Arrestable offence: a crime for which a person may be arrested without a warrant being needed."}
+{"text": "Arson: setting fire to something to cause damage to it."}
+{"text": "Articles: the clauses in a document. A company's articles set out its rules. The articles form part of the memorandum and articles of association."}
+{"text": "Articles of association: documents which set out a company's rules."}
+{"text": "Assault: when someone threatens another person with physical harm. Words on their own do not amount to assault but threatening gestures do, even if the person threatened is not touched."}
+{"text": "Assent: a document used by personal representatives to transfer property to a beneficiary."}
+{"text": "Asset: something owned such as a building, a vehicle or money in the bank."}
+{"text": "Assign: to formally transfer something, such as when ownership of property is transferred from one person to another."}
+{"text": "Assignment: the formal transfer of the rights to something. An example would be a bank customer assigning to the bank the right to receive the benefits from a life insurance policy to give the bank security for a loan."}
+{"text": "Assurance: insurance cover for an event which will definitely happen, such as death."}
+{"text": "Assure: to transfer the ownership of something."}
+{"text": "Assured: the person whose life is insured or who is entitled to receive the benefit from the assurance cover."}
+{"text": "Assured shorthold Tenancy: a type of tenancy agreement under which the landlord has the right to take the property back at the end of the tenancy agreement."}
+{"text": "Attachment of earnings: a court order that deductions be made from a person's earnings. The employer pays the money collected to the court and the court pays the money to the people it is owed to."}
+{"text": "Attest: to sign to witness a signature on a document."}
+{"text": "Attorney: a person appointed to act for another person (such as when someone cannot look after their own affairs). A formal document called a power of attorney is used to appoint the attorney. It is also the name used for a US lawyer."}
+{"text": "Attorney General: the chief legal adviser to the Government. He or she must be a Member of Parliament (or have a seat in the House of Lords) and must be a barrister."}
+{"text": "Audit: an independent examination of an organisation's records and financial statements (report and accounts) to make sure that:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the financial statements show a fair reflection of the financial position at the accounting date;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the income and spending is shown accurately;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the financial statements meet any legal conditions; and\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the financial statements are drawn up clearly."}
+{"text": "Auditor's report: a report and opinion, by an independent person or firm, on an organisation's financial records."}
+{"text": "Authorised share Capital: the highest amount of share capital that a company can issue. The amount is set out in the company's memorandum of association."}
+{"text": "Authorised Investments: investments in which a trustee is permitted to invest trust money, under an Act of Parliament."}
+{"text": "Autopsy: an examination of a dead body to find the cause of death."}
+{"text": "Bail: to pay, or promise to pay, an amount of money so that an accused person is not put in prison before the trial. If the accused person does not appear at the trial, the court can keep the money put up for bail."}
+{"text": "Bailee: a person or organisation looking after valuable items to keep them safe for the owner."}
+{"text": "Bail hostel: accommodation found for people charged with offences and released on bail, but who do not have a permanent address so that the police know where to find them."}
+{"text": "Bailiff: an officer of the court who carries out the court's orders, such as taking a debtor's goods and selling them to get money to pay the debtor's debts. A bailiff can also personally deliver (serve) documents on people."}
+{"text": "Bailiwick: the area over which a bailiff has jurisdiction."}
+{"text": "Bailment: transferring possession of goods from the owner to someone else. The ownership of the goods is not transferred. A practical example of bailment is that someone who hires a television has possession of it, but the rental company still owns the television."}
+{"text": "Bailor: the owner of valuable items which are in the possession of another person or organisation for safekeeping."}
+{"text": "Balance sheet: a summary of an organisation's financial position. It lists the values, in the books of account on a particular date, of all the organisation's assets and liabilities. The assets and liabilities are grouped in categories and paint a picture of the organisation's strengths and weaknesses."}
+{"text": "Banker's draft: a cheque drawn by a bank on itself. It is used when there must be certainty that a cheque will be paid."}
+{"text": "Bankrupt: someone who has had a bankruptcy order."}
+{"text": "Bankruptcy order: an order that a court may issue against someone if they cannot pay their debts when they are due to be paid. This order takes ownership of the debtor's property away from the debtor and allows much of the property to be sold. The money raised is divided between the creditors following strict rules."}
+{"text": "Bankruptcy search: a document which says whether or not someone is bankrupt."}
+{"text": "Bar: the collective term for barristers. When a lawyer becomes a barrister, it is called 'being called to the bar'."}
+{"text": "Bare trust: a trust which holds property on behalf of a person until they ask for it back."}
+{"text": "Bare trustee: someone who holds property on behalf of another person until asked to return the property."}
+{"text": "Bargain and sale: a contract to sell any property or investment in land that a person owns."}
+{"text": "Barrister: a lawyer who can speak in the higher courts, which a solicitor is not allowed to do."}
+{"text": "Barter: a way of paying for things by exchanging goods instead of using money."}
+{"text": "Battery: using physical force on someone either intentionally or carelessly and without their agreement. It would not be battery if two boxers took part in a boxing match, even though they hurt each other during the match, because they would have agreed to fight each other."}
+{"text": "Bearer: the person who has a document in their possession."}
+{"text": "Bench: the name for the judges or magistrates in a court."}
+{"text": "Bench warrant: a warrant issued by a court for the arrest of an accused person who has failed to attend court. It is also issued when someone has committed contempt of court and can't be traced."}
+{"text": "Beneficial interest: belonging to a person even though someone else isthe legal owner. If something really belongs to someone, even if that person does not legally own it, they have a beneficial interest in it. If, for instance, parents hold an investment on behalf of their child they are the legal owners, but the child is the beneficial owner of the investment."}
+{"text": "Beneficial owner: the owner of a piece of land (and the buildings on it).\nBeneficial owners have the right:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to the income their land generates; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to use the land for their own purposes.\nIt can also be a person who really owns something even though it is held in someone else's name."}
+{"text": "Beneficiary: someone who benefits from a will, a trust or a life insurance policy."}
+{"text": "Bequeath: to leave something (such as possessions or money) to someone in your will. You cannot bequeath land or real property but you can devise them instead."}
+{"text": "Bequest: something given in a will, other than land or real property."}
+{"text": "Bigamy: the offence committed by someone who is already married but still goes through a marriage ceremony with someone else."}
+{"text": "Bill of costs: the invoice the solicitor sends to a client giving details of any disbursements the solicitor has paid on behalf of the client, the fee the solicitor is charging and any expenses."}
+{"text": "Bill of exchange: a signed written order, instructing the person it is addressed to to pay an amount of money to someone. A cheque is a type of bill of exchange."}
+{"text": "Bill of lading: a document recording the goods a ship carries and the terms the goods are carried under."}
+{"text": "Bill of sale: a document which transfers ownership of goods from one person to another."}
+{"text": "Binding effect: the fact that an agreement must be kept to by law."}
+{"text": "Binding over: an order by a court in a criminal case. If someone has misbehaved or broken the peace, magistrates can bind them over. The magistrates can order them to pay a bond. This will be forfeited (won't be repaid) if the binding over terms are broken."}
+{"text": "Binding precedent: following the decisions made by higher courts. Lower courts must follow the precedents set by the decisions of higher courts and this is called binding precedent."}
+{"text": "Blackmail: demanding payment from a person in return for not revealing something shameful about them."}
+{"text": "Bodily harm: physical injury or pain."}
+{"text": "Bona fide: genuine, sincere or in good faith. (This term is Latin.)"}
+{"text": "Bona vacantia: goods or an estate belonging to nobody. (This term is Latin.)"}
+{"text": "Bond: a written promise to repay a debt at an agreed time and to pay an agreed rate of interest on the debt."}
+{"text": "Bonded goods: goods for which a bond has been paid to HM Customs and Excise as security for the duty owed on the goods."}
+{"text": "Bonded warehouse: a warehouse approved by HM Customs and Excise for storing goods imported into the UK until the duty on them has been paid or the goods have been exported to another country."}
+{"text": "Bonus shares: free shares that a company offers to its shareholders, in proportion to their existing shareholdings."}
+{"text": "Book value: the value of a fixed asset, such as a building or machine, as recorded in an organisation's books. It is usually the amount paid for the asset less an amount for depreciation."}
+{"text": "Bought note: a document showing details of a purchase by someone for a third party. Stockbrokers produce bought notes for their clients. The bought note shows details of the investments the broker has bought for the client, including the price paid and any commission and duty charged."}
+{"text": "Breach of contract: failing to carry out a duty under a contract."}
+{"text": "Breach of duty: failing to carry out something which is required by law, or doing something the law forbids."}
+{"text": "Breach of the peace (or breaking the peace): when harm is done to someone, or harm is threatened."}
+{"text": "Breach of trust: when a trustee does something which is against the trust's rules or fails to do something required by the trust's rules."}
+{"text": "Break clause: a clause in a contract which allows it to be ended."}
+{"text": "Bridle way: a path or road which is a right of way for people walking and people leading or riding horses. Cyclists can use it as well but must give way to pedestrians and horses."}
+{"text": "Brief: a document prepared by a solicitor which contains the instructions for the barrister to follow when acting for the solicitor in court."}
+{"text": "Building preservation Notice: a notice that a building is listed. If a building is in danger of being altered or demolished, but the local planning authority thinks it should be preserved, the authority can issue a notice that the building is listed."}
+{"text": "Burglary: entering a building without permission with the intention of stealing or doing damage."}
+{"text": "Bye-law or bylaw: a law made by a local authority. It only applies within the local authority's boundaries."}
+{"text": "Call: asking people to pay for new shares they have applied for. A company makes a call when it asks buyers of its new shares to pay some, or all, of the share price. When this happens the shares are being called up."}
+{"text": "Called-up capital: all the shares called by a company when it issues shares. When calls have been made for the whole of the share price and the shareholders have paid, the shares become paid-up share capital."}
+{"text": "Canon law: the name for the rules used for running a Christian church."}
+{"text": "Capacity: someone's ability to enter into a legal agreement. For example, a minor would not be able to buy something on credit."}
+{"text": "Capital allowances: allowances that you can sometimes claim when you buy long-term assets, such as machines, to use in your business. You claim part of the cost against your profits before your tax is worked out for the year."}
+{"text": "Capital gain: the profit you make if you sell or dispose of a longterm asset (such as a building) for more than it cost you"}
+{"text": "Capital gains tax: a tax charged on certain capital gains."}
+{"text": "Capital punishment: punishing someone for a crime by killing them."}
+{"text": "Capital redemption reserve: A company has to have this reserve in its financial records and in its accounts if any of the shares it has issued are cancelled. The reserve cannot be paid out to the members until the company is liquidated and so it prevents the company's capital being reduced."}
+{"text": "Careless driving: driving a car without consideration for other people using the road."}
+{"text": "Care order: an order by a court instructing the local authority to care for a child."}
+{"text": "Cartel: an agreement between businesses to restrict competition and keep prices high."}
+{"text": "Case law: law that is based on the results of previous court cases."}
+{"text": "Case stated: the written statement setting out the facts of a case. It is produced by a magistrates' court when asking the High Court for an opinion on the law."}
+{"text": "Causation: one thing being done causing something else to happen."}
+{"text": "Cause of action: the reason someone is entitled to sue someone else."}
+{"text": "Causing death by careless and inconsiderate driving: an offence committed by someone who is unfit to drive because of drink or drugs, but nevertheless drives a vehicle and kills another person. The punishment for careless and inconsiderate driving is less severe than for dangerous driving."}
+{"text": "Causing death by dangerous driving: a criminal offence committed by someone whose driving is dangerous and results in another person being killed. The courts consider dangerous driving to be a very serious offence."}
+{"text": "Caution: is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a warning given by the police to a suspected criminal when the suspect is arrested;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a warning given by the police when they release a suspect without prosecution that, if there are any more offences committed by the suspect, the first possible offence may be taken into account; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a document sent to the Land Registry by someone who may have a right over land, which demands that no dealings in the land are registered until the person with the right has been told."}
+{"text": "Caveat: a warning. (This is a Latin term.)"}
+{"text": "Caveat emptor: 'buyer beware'. It is used to warn people buying goods that they may not be able to get compensation if the goods they buy are faulty. (This is a Latin term.)"}
+{"text": "Central Criminal Court: the most senior court covering the centre of London."}
+{"text": "Certificate of Incorporation: a certificate stating that a company has been incorporated (that is, it has a separate existence from its members). The Registrar of Companies issues the certificate of incorporation once a company has been formed."}
+{"text": "Certificate of origin: a certificate stating in which country the goods being imported were made."}
+{"text": "Certiorari: an order by the High Court that a case should be reviewed. If the High Court considers that a case heard in a lower court is flawed it may order that it be reviewed by the High Court. (This word is Latin.)"}
+{"text": "Challenge for cause: when the defence objects to a juror and says why it objects."}
+{"text": "Challenge to a jury: when either side in a case objects to the people who have been selected to serve on the jury before they are sworn in."}
+{"text": "Challenge to the array: when the defence objects to all the jurors."}
+{"text": "Challenge without Cause: happens when the defence objects to a juror but does not say why."}
+{"text": "Chambers: the offices used by barristers and the judge's private office."}
+{"text": "Chancery Division: a section of the High Court. It deals with cases involving trusts, land, company law, patents and so on."}
+{"text": "Charge: means:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to formally accuse someone of committing a crime;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to use property as security for a debt (such as a mortgage); or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a direction given by a judge to tell the jury what they must do."}
+{"text": "Chargeable event: an event that may create a tax liability (tax bill)."}
+{"text": "Chargeable gain: a gain on which capital gains tax is payable. If a capital asset such as a building is sold or disposed of at a profit, tax on the gain has to be worked out unless the capital asset is one exempted by law."}
+{"text": "Charge certificate: a certificate which the Land Registry issues to the legal mortgagee (the lender) who has lent money on the security of registered land. It is proof of the legal mortgagee's right to the security."}
+{"text": "Charges clause: a clause which appears in some contracts and sets out who should pay for certain items."}
+{"text": "Charge sheet: the document on which a police officer records details of the accusation against a suspect."}
+{"text": "Charges register: part of the certificate which is evidence of someone's title. The register shows details of any mortgages, restrictions on the use of the land or rights someone else may have over the land such as a right of way."}
+{"text": "Charging clause: trustees can charge the trust for their services if there is a charging clause."}
+{"text": "Charging order: a court judgement which a creditor may get against the person or organisation which owes the money, giving the creditor security over the debtor's property for repayment of the debt."}
+{"text": "Charity: an organisation set up to do good for the community, such as help poor people, educate people and protect animals. Most charities are registered with the Charity Commission."}
+{"text": "Charity Commission: an organisation responsible for checking that charities are run properly. It also decides whether proposed charities can be placed on the register of charities."}
+{"text": "Chattel: any property except freehold land."}
+{"text": "Chattels personal: the name for tangible goods (goods which can be touched) such as watches, clothes, furniture and so on."}
+{"text": "Chattels real: another name for leasehold land."}
+{"text": "Cheat: a person who fails to send tax returns to the tax authorities or fails to pay the tax owing, such as income tax or value added tax."}
+{"text": "Cheque: a written order, addressed to a bank, instructing the bank to pay an amount of money to the person or organisation named on the cheque. The bank takes the money out of the relevant customer's account."}
+{"text": "Cheque card: a card issued by a bank to a customer. It guarantees that a cheque used with the card will be paid if the person issuing the cheque has kept to all the conditions."}
+{"text": "Chief rent: money charged regularly on freehold land. Despite its name it is not rent."}
+{"text": "Child abuse: molestation or ill-treatment suffered by a child."}
+{"text": "Child assessment Order: an order which a local authority may apply to a court for to assess a child's situation if there are concerns about the child's welfare."}
+{"text": "Children in care: children looked after by a local authority. The local authority takes on the responsibility for the children as if it was a parent."}
+{"text": "Child Support Agency: part of the Department of Social Security. It supervises the assessment and payment of maintenance for children."}
+{"text": "Child Support Maintenance: the amount of maintenance the parent not living with their child must pay."}
+{"text": "Chose: an item of property (anything which can be owned)."}
+{"text": "Chose in action: a right such as a patent, or a right to recover a debt. A chose in action does not physically exist. For example, you cannot touch patents or rights because they have no physical existence."}
+{"text": "Chose in possession: an object which physically exists, such as furniture."}
+{"text": "Circuit: any of the six legal regions into which the United Kingdom is divided up. Each circuit has its own system to administer the courts within the circuit."}
+{"text": "Circuit judge: a judge who presides over (is in charge of) cases in the Crown Court and county courts."}
+{"text": "Circumstantial evidence: evidence which suggests a fact but does not prove the fact is true."}
+{"text": "Citation: is:\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a summons to appear in court;\n\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 quoting from a completed case to support an argument; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a notice sent out by someone wanting grant of probate or letters of administration, asking people to come forward if they object to it."}
+{"text": "Citizen's arrest: an arrest by someone who is not a police officer. The offence must be being committed or have already been committed when the arrest is done."}
+{"text": "Civil court: a court which does not hear criminal cases. It deals with people's rights such as collection of debts."}
+{"text": "Claim: means:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to apply for a right;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to demand a remedy; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 an application for something such as a right."}
+{"text": "Claimant: the person making a claim."}
+{"text": "Clause: a section in a contract."}
+{"text": "Clearing bank: one of several major banks which work together to exchange and pay for cheques which their customers have written."}
+{"text": "Clerk to the Justices: a solicitor or barrister who helps in court by advising the magistrates."}
+{"text": "Close company: a company controlled by five people or fewer, or by its directors."}
+{"text": "Closing order: an order prohibiting the use of a house because the house is not fit for humans to live in."}
+{"text": "Codicil: extra pages to change a valid will which needs a minor alteration. The codicil must be signed and witnessed and then be attached to the will."}
+{"text": "Codifying statute: a statute used to bring together all the strands of the law on a particular subject."}
+{"text": "Coercion: a defence that a crime was committed because the person accused was forced to do it."}
+{"text": "Collateral: extra security for a debt. If there is a main security for a debt, such as a house being security for a mortgage, any extra security supplied is called collateral."}
+{"text": "Commissioner for Oaths: a person appointed by the Lord Chancellor to administer (manage) the swearing of oaths."}
+{"text": "Committal for sentence: happens when magistrates have found someone guilty of a crime but they think their sentencing powers are not enough. The magistrates transfer the case to the Crown Court where a higher sentence can be imposed."}
+{"text": "Committal for trial: when magistrates look at the evidence in a case and then send the case to be heard in the Crown Court."}
+{"text": "Committal order: an order used to send someone to prison for contempt of court."}
+{"text": "Committal proceedings: a hearing where magistrates work out if there is enough evidence of a serious crime to justify a trial by jury."}
+{"text": "Committee of Inspection: a committee appointed from the creditors of a company in liquidation to oversee the liquidator's work."}
+{"text": "Common assault: when someone threatens another person with physical harm, even if they are not touched. This is a less serious type of assault (compare with aggravated assault). Threatening someone with a weapon such as a knife or gun is common assault."}
+{"text": "Common duty of care: the duty of the occupier of premises or land to take reasonable care of visitors to make sure that they are kept safe."}
+{"text": "Common seal: the seal companies use to authenticate (validate) important company documents. The company's name is engraved on the seal."}
+{"text": "Commorientes: closely related people who die at the same time, and it is unclear which of them died first. (This term is Latin.)"}
+{"text": "Community service order: an order to do work in the community without pay. If someone has been convicted of a crime they may be given a community service order as an alternative to being sent to prison."}
+{"text": "Companies House: the office which stores company information such as annual accounts, directors' names and addresses and the registered office address. People who are interested in a company can inspect some of the information stored."}
+{"text": "Company secretary: a person appointed by the directors of a company who is responsible for making sure that the company complies with the Companies Acts."}
+{"text": "Compensation: money paid to make up for damage or loss caused."}
+{"text": "Compensation for loss of office: lump-sum compensation a company pays to an employee whose contract has been ended."}
+{"text": "Compensation order: an order by a court to a criminal to compensate the victim of the crime."}
+{"text": "Completion: transferring property in exchange for payment. When there is a contract to sell land, there will be an initial payment to confirm the contract. Completion happens when the ownership of the land is transferred to the person buying it, in return for the seller receiving the rest of the purchase price."}
+{"text": "Composition with Creditors: an arrangement between a debtor and the creditors. The creditors agree to accept a proportion of what is owed to them in full settlement."}
+{"text": "Compulsory purchase: taking land and giving compensation for it. When land is needed for a project, such as a road, local authorities and other public bodies can take the land off the landowner. Compensation has to be paid to the landowner."}
+{"text": "Compulsory winding up: the liquidation of a company by order of the court. It usually happens because the company has not been able to pay its bills on time and a creditor has presented to the court a petition for winding up the company."}
+{"text": "Concealment: failure by one side negotiating a contract to disclose (reveal) information which the other side would need to consider when deciding whether or not to go ahead."}
+{"text": "Concealment of securities: hiding or destroying a document such as a will to gain benefit for yourself or cause other people loss of benefit."}
+{"text": "Conclusive evidence: evidence which by law cannot be disputed."}
+{"text": "Concurrent sentence: when someone is sentenced for different crimes and The sentences are to be served at the same time."}
+{"text": "Condition: a fundamental part of an agreement. The agreement or contract may collapse if a condition is broken."}
+{"text": "Conditional agreement: an agreement which depends on a certain thing happening in the future. If the event does not happen the agreement will not start to operate."}
+{"text": "Conditional discharge: A court may decide not to punish a criminal immediately for an offence and may conditionally discharge the criminal instead. If the criminal reoffends the court may impose a punishment for the original offence as well as the later ones."}
+{"text": "Conditional sale agreement: an agreement by which the seller remains the owner of the goods until all the instalments have been paid and all other conditions have been met."}
+{"text": "Condition precedent: something which must happen before a contract starts."}
+{"text": "Condition subsequent: something which may happen in the future and, if it does, will affect a contract."}
+{"text": "Confiscation order: If someone has been convicted of a crime the court may order the person convicted to pay the court a sum of money. This is called a confiscation order."}
+{"text": "Consecutive sentence: when someone is sentenced for different crimes and the sentences have to be served one after another."}
+{"text": "Consent: to agree to something. A contract would not be valid unless all the parties consented to it."}
+{"text": "Consideration: the price you pay for something."}
+{"text": "Consignee: the person goods have been sent to."}
+{"text": "Consignor: the person who sent the goods."}
+{"text": "Consistory Court: a court for the clergy. There is one in each diocese."}
+{"text": "Conspiracy: is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 an agreement by two or more people to commit\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a crime; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 some people acting together and harming a third party."}
+{"text": "Constructive: describing something which may not be set out in the law but will nevertheless be considered to exist."}
+{"text": "Constructive dismissal: because the employer has broken fundamental terms of the contract of employment the employee has been forced to resign. The employee can apply for a hearing before an industrial tribunal."}
+{"text": "Constructive notice: presuming something is known. The law sometimes presumes that a person knows something even though they do not."}
+{"text": "Consumer credit agreement: an agreement by a creditor, such as a bank, to provide up to \u00a325,000 of credit to a consumer."}
+{"text": "Contempt of court: the offence of:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 disobeying a court order;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 abusing a judge during a court case; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 interfering in the administration of justice."}
+{"text": "Contemptuous damages: tiny damages. Sometimes, even though a case has been won, the court may consider that it should not have been brought to court and will only award tiny damages."}
+{"text": "Contingency fee: the claimant's lawyer gets paid the fee only if the case is won by the claimant. The fee is often a proportion of the damages won."}
+{"text": "Contingent legacy: a gift in a will which will only be made if certain conditions are met."}
+{"text": "Contract: an agreement between two or more people (or groups) to do (or not to do) something. The agreement can be enforced by law."}
+{"text": "Contract for services: a contract under which materials and services are provided by a contractor."}
+{"text": "Contract of exchange: a contract to exchange goods without money being involved (barter)."}
+{"text": "Contract of service: the contract between employer and employee."}
+{"text": "Contributory negligence: your own carelessness contributing to the damage done to you or your property. When someone suffers damage or injury their claim for damages may be limited if they have contributed to the harm done through their own carelessness."}
+{"text": "Conversion: is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 exchanging one sort of property for another (such as exchanging money for goods); or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 acting unlawfully to deprive someone of their ownership of goods."}
+{"text": "Convey: to transfer the ownership of something."}
+{"text": "Conveyance: the name of the document which transfers the ownership of land."}
+{"text": "Conveyancing: the name for carrying out all the actions needed to transfer the ownership of a piece of land."}
+{"text": "Conviction: being found guilty of a criminal offence."}
+{"text": "Copyright: a legal right which stops things being copied without permission. If you have the copyright over something (such as a book or music), nobody can copy it or reproduce it without your permission."}
+{"text": "Coroner: a person who investigates the cause of death when a person has suffered a sudden, violent or suspicious death."}
+{"text": "Corporate body(or corporation): a group of people acting together, such as a club. The group has a separate legal identity from the individual members' identities. A company is another example of a corporate body."}
+{"text": "Corporation tax: a tax which companies pay on their profits."}
+{"text": "Corpus: the name for a body (usually dead). (This word is Latin.)"}
+{"text": "Corpus delicti: is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the body of a person who has been killed unlawfully; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the facts which make up an offence.(This phrase is Latin.)"}
+{"text": "Counsel: a barrister or group of barristers."}
+{"text": "Counterclaim: making a claim in court against someone who has already made a claim in court against you."}
+{"text": "Counterfeit: something that is forged or copied with the intention of deceiving."}
+{"text": "Counterpart: an exact copy of a document."}
+{"text": "County court: a court which deals with civil cases such as disputes over unpaid debts and negligence claims. It does not deal with criminal cases."}
+{"text": "County court judge: a judge who presides over (is in charge of) cases in the county courts."}
+{"text": "Coupon: a dated piece of paper attached to a bond. The coupon has to be surrendered (given back) to get the interest or dividend on the bond."}
+{"text": "Court of Appeal: a court which hears appeals against the decisions of other courts."}
+{"text": "Court of Protection: a court which administers (manages) the assets and affairs of people who cannot look after themselves, such as people who are mentally ill."}
+{"text": "Covenant: a contract or legally binding promise."}
+{"text": "Creditor: a person you owe money to."}
+{"text": "Creditors' voluntary winding up.: If a company is insolvent (cannot pay its debts when they are due for payment) the members can pass a special resolution to have the company wound up (liquidated). This is called a creditors' voluntary winding up."}
+{"text": "Criminal damage: the criminal offence of causing damage to someone else's property either recklessly or intentionally."}
+{"text": "Criminal responsibility: When someone reaches the age when the law says they are able to commit a criminal offence they have reached the age of criminal responsibility."}
+{"text": "Cross-examine: to question a witness for the other side in a case."}
+{"text": "Crown Court: the court where people indicted of criminal offences are tried."}
+{"text": "Culpa: blameworthiness or a fault. (This word is Latin.)"}
+{"text": "Cum dividend: with dividend. If a share is sold cum dividend, the buyer will receive the dividend that was declared just before the share was bought."}
+{"text": "Cumulative preference shares: shares which carry forward unpaid dividends. If dividends on these shares have not been paid in previous years the arrears must be paid before a dividend can be paid on the ordinary shares."}
+{"text": "Curfew: a court ordering someone to stay at a named place at stated times of the day."}
+{"text": "Customs duties: duties which are charged on imports of goods into the UK and on some exports."}
+{"text": "Damages: the name for money awarded by a court as compensation."}
+{"text": "Dangerous driving: a standard of driving which falls far below that of a careful, competent driver and it would be obvious to such a driver that it was dangerous to drive that way. A driver found guilty of dangerous driving would be disqualified from driving by the court."}
+{"text": "Debenture: a document issued by a company which acknowledges that some or all of the company's assets are security for a debt (usually to a bank). It is also the name for certain long-term loans to companies."}
+{"text": "Debt: money owed."}
+{"text": "Debtor: someone who owes you money."}
+{"text": "Debt securities: debts which can be bought and sold, such as debentures."}
+{"text": "Deceit: when one person deliberately misleads a second person with a statement which causes the second person to do something that causes them damage."}
+{"text": "Decree: an order by a court."}
+{"text": "Decree absolute: the final court order which ends a marriage."}
+{"text": "Decree nisi: a provisional court order which orders that a marriage should be dissolved."}
+{"text": "Deed: a legal document which commits the person signing it to something."}
+{"text": "Deed of arrangement: a written agreement which can be made, when a debtor is in financial trouble, between the debtor and the creditors. It is intended to benefit the creditors and avoid the bankruptcy of the debtor. The creditors get a proportion of the money owing to them."}
+{"text": "De facto: in fact or in reality. (This term is Latin.)"}
+{"text": "Defamation: making a statement, either orally or in writing, which damages someone's reputation."}
+{"text": "Default: failing to do something which had been agreed to."}
+{"text": "Defence: the name for the team of people (lawyers and so on) against proceedings brought against someone. It is also in a civil case a written statement (pleading) by the defendant setting out the facts that the defence will rely on."}
+{"text": "Defendant: a person defending a court action which has been taken against them."}
+{"text": "De jure: rightfully. (This term is Latin.)"}
+{"text": "De minimis non curat lex: the law will not take account of trifling matters. (This phrase is Latin.)"}
+{"text": "Dependant: someone who depends on someone else for financial support."}
+{"text": "Deponent: a person who swears on oath that a statement is correct."}
+{"text": "Deposition: a statement, by a witness, made under oath."}
+{"text": "Depreciation: the drop in value of an asset due to wear and tear, age and obsolescence (going out of date), as recorded in an organisation's financial records."}
+{"text": "Derogation: damaging someone's rights or entitlements."}
+{"text": "Determination: ending an agreement."}
+{"text": "Devise: to leave land in a will."}
+{"text": "Devisee: the person who is left freehold property or land in a will."}
+{"text": "Diminished responsibility: a defence sometimes used for someone charged with murder, that they suffered lowered powers of reasoning and judgement because of their unusual state of mind. If their defence succeeds they will be convicted of manslaughter."}
+{"text": "Diocese: the area covered by a bishop's authority."}
+{"text": "Diplomatic immunity: immunity given to certain members of foreign embassies, such as ambassadors, for crimes they may have committed."}
+{"text": "Direction/directing: judges must give juries instructions on points of law. This is called directing the jury."}
+{"text": "Director: a person appointed to help manage a company's affairs."}
+{"text": "Disbursement: a payment made by a professional person, such as a solicitor or accountant, on behalf of a client. The money is claimed back by including it on the bill for professional services which is sent to the client."}
+{"text": "Discharge: release from:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a commitment such as a debt;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a contract because it has finished or the parties agree to end it; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a punishment for a crime."}
+{"text": "Disclaim/disclaimer: to give up a claim or a right or refuse to take over an onerous (having more obligations than advantages) contract. A disclaimer can also be a notice to limit responsibility."}
+{"text": "Discovery: one party in a civil case revealing to the other party the documents relevant to the case under the first party's control and allowing them to be inspected."}
+{"text": "Discretionary trust: a trust in which the trustees can decide who will benefit from the trust and how much they will get."}
+{"text": "Disposal (dispose of): selling, transferring or giving away something."}
+{"text": "Distrain/distress: to seize goods as security for an unpaid debt."}
+{"text": "Divorce: the legal end to a marriage."}
+{"text": "Divorce petition: an application for the legal ending of a marriage."}
+{"text": "Domicile: the country where your permanent home is, even if"}
+{"text": "Domiciled: permanently based in a country. you are living somewhere else for now."}
+{"text": "Domicile of choice: the country in which you make your home, intending it to be permanent."}
+{"text": "Domicile of origin: the domicile a newborn child has. This is usually its father's domicile or, if the father is dead, its mother's."}
+{"text": "Drawee: the organisation which will pay a bill of exchange (such as a cheque). In the case of a cheque, this is the bank that the cheque is drawn on."}
+{"text": "Drawer: the person or organisation that has written a bill of exchange, such as a person who has written a cheque."}
+{"text": "Duress: threatening or pressurising someone to do something."}
+{"text": "Duty: a levy charged by the Government, usually when things are bought, such as shares or buildings."}
+{"text": "Easement: a right to use someone else's land, such as a right of way."}
+{"text": "Enabling legislation: legislation which authorises government ministers or bodies to create detailed rules to accomplish general principles set out in the legislation. For example it may allow a minister to create rules or laws for a particular body, such as the police, to follow."}
+{"text": "Endorsement: a change to the original terms of a contract, such as an insurance policy."}
+{"text": "Endowment policy: a type of insurance policy which will pay out a lump sum on a fixed date in the future, or when you die if this happens earlier."}
+{"text": "Enduring power of Attorney (in England and Wales): a power of attorney which takes effect in the future. If a person is capable of dealing with their own affairs at present, they can sign an enduring power of attorney. It will only come into effect when they are no longer capable of looking after their own affairs. It gives authority to the person appointed to act for the person who signed the power of attorney."}
+{"text": "Engrossment: preparing the final version of a legal document ready for it to be executed (made valid such as with a signature)."}
+{"text": "Equitable mortgage: the type of mortgage where the purchaser owns the property which is security for the mortgage."}
+{"text": "Escrow: a deed which has been supplied but cannot become effective until a future date, or until a particular event happens."}
+{"text": "Estate: is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 all a person owns at the date of their death; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the right to use land for a period of time."}
+{"text": "Estimate: an offer to do stated work for a set price."}
+{"text": "Estoppel: a rule of law that a person cannot deny something they previously said, if someone else acted on what was said and their position was changed, possibly for the worse, as a result."}
+{"text": "Et seq: 'and in the following pages'. It is sometimes written in books and documents. (This phrase is abbreviated from the Latin 'et sequeus'.)"}
+{"text": "Euthanasia: killing someone to end their suffering."}
+{"text": "Excess of jurisdiction: someone such as a judge acting without authority."}
+{"text": "Exchange of contract: swapping identical contracts. When land is sold, the person selling and the person buying both sign identical copies of the contract and exchange them. The contract is then binding on both of them."}
+{"text": "Excise duty: a type of tax levied on certain goods such as petrol. It is also levied on some activities such as gambling and on certain licences for activities (such as driving a car on the public roads)."}
+{"text": "Exclusions: the things an insurance policy does not provide cover for. They will be listed in the insurance policy."}
+{"text": "Exclusive licence: a licence under which only the licence holder has any rights."}
+{"text": "Ex dividend: without dividend. If a share is sold ex dividend, the seller will receive the dividend declared just before it was sold."}
+{"text": "Execute: to carry out a contract."}
+{"text": "Executed: describing a document which is made valid (in the eyes of the law) such as by being signed or sealed."}
+{"text": "Executive director: a director who usually works full time as a director of the company."}
+{"text": "Executor: a man appointed in a will to deal with the estate, according to the wishes set out in the will. Today it is often used to refer to a woman as well."}
+{"text": "Executory: describing something, such as a contract, which has not been started yet."}
+{"text": "Executrix: a woman appointed in a will to deal with the estate, according to the wishes set out in the will."}
+{"text": "Exemplary damages: damages given as a punishment for the defendant."}
+{"text": "Ex gratia: describing something done or given as a favour rather than a legal obligation. (This term is Latin.)"}
+{"text": "Ex parte: done by one side only in a case. (This term is Latin. Since April 1999, it is often replaced with 'without notice'.)"}
+{"text": "Expert witness: an expert in a particular field who is called to give an opinion in a court case."}
+{"text": "Ex post facto: describing a law which is retrospective (it affects past acts as well as future ones). (This term is Latin.)"}
+{"text": "Extradition: the handing over of a criminal to the country the crime was committed in."}
+{"text": "Extraordinary general Meeting: a general meeting of the members of a company which is not the annual general meeting."}
+{"text": "Extraordinary Resolution: a resolution for consideration by the members of a company at a general meeting of the members."}
+{"text": "Ex works: available from the factory. When something is sold ex works the buyer can collect it from the place it was manufactured or from some other place agreed by the buyer and seller."}
+{"text": "Factor: is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 someone buying or selling for a commission; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 an organisation which provides finance for a business by advancing money on the value of the invoices the business sends out."}
+{"text": "False imprisonment: wrongfully keeping someone in custody (for example in prison)."}
+{"text": "False pretence: misleading someone by deliberately making a false statement."}
+{"text": "False representation: lying in a statement to persuade someone to enter a contract."}
+{"text": "Family Division: the part of the High Court dealing with marriage breakdowns and probate."}
+{"text": "Felony: the former term used for serious crimes such as rape or murder. It is still in use in the USA."}
+{"text": "Feme covert: a woman who is married."}
+{"text": "Feme sole: a woman who is not married or no longer married."}
+{"text": "Feu: a lease which lasts for ever."}
+{"text": "Feu duty: a yearly charge on a feu (which only applies in Scotland.)"}
+{"text": "Fiduciary: in a position of trust. This includes people such as trustees looking after trust assets for the beneficiaries and company directors running a company for the shareholders' benefit."}
+{"text": "Final judgement: the court's final decision in a civil case."}
+{"text": "Fitness to plead: whether or not the person charged is capable of making an informed decision. If, because of mental illness, a person charged with an offence is unable to understand what is going on the person may not be fit to plead guilty or not guilty."}
+{"text": "Fixed charge: a charge which provides security for money lent. The charge is over a specific property."}
+{"text": "Floating charge: a charge used to provide security for money lent to a company. The charge is over the company's liquid assets (such as stocks and debtors) but it is only triggered by an event such as liquidation."}
+{"text": "Forbearance: when one party to an agreement does not pursue rights under the agreement even though the other party has not kept to its terms. An example would be someone not suing to recover an overdue debt."}
+{"text": "Force majeure: an event which cannot be controlled and which stops duties under an agreement from being carried out. (This phrase is French.)"}
+{"text": "Foreclosure: repossessing property. If a mortgagor (the borrower) has failed to keep up the repayments on a mortgage, the mortgagee (the lender) may apply to the High Court for an order that the debt be repaid by a particular date. If the debt is not repaid the property will be repossessed. This procedure is called foreclosure."}
+{"text": "Forfeiture: the loss of possession of a property because the tenancy conditions have not been met by the tenant."}
+{"text": "Fostering: looking after other people's children. Sometimes children are looked after by people who are not their parents (natural or adopted). It usually happens because the parents cannot look after the children properly because of changed circumstances such as illness."}
+{"text": "Fraud: lying or deceiving to make a profit or gain an advantage, or to cause someone else to make a loss or suffer a disadvantage."}
+{"text": "Fraudulent conveyance: ownership of land being transferred without consideration and with the intention of defrauding someone."}
+{"text": "Fraudulent preference: someone who is insolvent paying one of their creditors while knowing there is not enough money to pay the others."}
+{"text": "Fraudulent trading: running a business with the intention of defrauding its creditors or other people."}
+{"text": "Freehold: describing land that only the owner has any rights over."}
+{"text": "Free of encumbrances: no one else having any rights over something. When property is owned by someone and nobody else has any rights over it, it is owned free of encumbrances."}
+{"text": "Frustration: stopping a contract. Sometimes a contract cannot be carried out because something has happened which makes it impossible. This is called frustration of contract."}
+{"text": "Futures contract: a binding contract to buy or sell something on a date in the future at a fixed price."}
+{"text": "Garnishee order: a court order to a third party who owes money to a judgement debtor to pay the money to the judgement creditor."}
+{"text": "General damages: damages a court will give to compensate for a wrong done without needing specific proof that damage has been done to the claimant ('plaintiff' before April 1999). The court presumes that losses or damage exist such as in a libel case."}
+{"text": "General meeting: a meeting of the members of a company to make decisions about the company."}
+{"text": "Grant: proof that you are entitled to deal with a dead person's estate. The grant is issued by the Probate Registry."}
+{"text": "Grant of probate: a certificate proving that the executors of a will are entitled to deal with the estate. When a person dies the executors fill in various forms for the Probate Registry. The forms are then sent to the registry together with the will and the death certificate. A registrar examines all the documents and, once satisfied with everything, issues the grant of probate."}
+{"text": "Grievous bodily harm: intentionally causing serious physical harm to someone. This is more serious than actual bodily harm."}
+{"text": "Guarantee: a promise by a person (the guarantor) to repay a debt owed by a second person if the second person fails to repay it. For example, a guarantee is sometimes required by a bank before it will lend money to a customer."}
+{"text": "Guarantee company: a company whose members only have to pay the amount they have agreed to contribute, if the company has to be wound up. They do not have to pay in extra money if there is not enough to pay all the company's debts."}
+{"text": "Guarantor: a person or organisation that promises to pay a debt owed by a second person, if the second person fails to repay it."}
+{"text": "Guardian: a person appointed formally to look after the interests of a child, or of someone who is not capable of looking after their own affairs."}
+{"text": "Guilty: a court's verdict that the person charged with a crime committed it."}
+{"text": "Habeas corpus: a writ which can be applied for to order a person's release if they have been imprisoned unlawfully."}
+{"text": "Harassment of debtors: the illegal act of attempting to collect a debt by threatening, or habitually acting in a way that humiliates or distresses, a debtor."}
+{"text": "Harassment of Occupiers: the illegal act by a landlord of using, or threatening to use, violence, or interfering with the tenant's enjoyment of the property, in an attempt to repossess the property."}
+{"text": "Hearsay evidence: evidence given in court of something said to the witness by another person."}
+{"text": "Hereditament: any property which is capable of being inherited."}
+{"text": "High Court (of Justice): part of the Supreme Court. It is split into three divisions called:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Queen's Bench Division;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Queen's Bench Division;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Chancery Division; and\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Family Division."}
+{"text": "Hire: to pay to borrow something for a period."}
+{"text": "Hire purchase: a form of credit which allows the purchaser to have possession of the goods shown in the hire purchase agreement. Ownership passes to the purchaser when the fee and all the instalments have been paid."}
+{"text": "HM Customs and Excise: a government department responsible for administering (managing) value added tax, customs duties and excise duties."}
+{"text": "HM Land Registry: a registry with offices in towns and cities throughout the UK which keep records of registered land."}
+{"text": "Holding company: a company which controls another company, usually by owning more than half of its shares."}
+{"text": "Hostile witness: a witness who:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0 refuses to testify in support of the people who called them; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0 testifies in a way which differs from their previous statement."}
+{"text": "House of Lords: the highest court in the UK."}
+{"text": "Housing associations: organisations run to provide housing for people. They are not intended to make a profit."}
+{"text": "Hypothecation: a person giving a bank authority to sell goods which have been pledged to the bank as security for a loan."}
+{"text": "Indict: using legal means, to officially accuse someone of committing an offence."}
+{"text": "Indictable offence: an offence which can be tried by jury in the Crown Court."}
+{"text": "Indictment: a document setting out the details of the offence a defendant is accused of."}
+{"text": "Intangible property: property which does not physically exist, such as a right or a patent."}
+{"text": "Interest: a legal right to use property."}
+{"text": "Interlocutory Judgement: a provisional judgement. (Since April 1999, this had been replaced with the phrase 'Judgment for an amount and costs to be decided by the court')."}
+{"text": "Interlocutory\nProceedings: the first things to be done before a civil case comes to trial. They include pleading (preparing the formal written statement) and discovery (stating the documents, under one party's control, which are relevant to the case and making them available to the other party) so that there are no surprises when the trial starts."}
+{"text": "Interrogatories: in a civil case, formal questions from one side which the other side must answer under oath."}
+{"text": "Intestacy/intestate: when someone dies without leaving a will. Their estate is divided up between their relatives following the rules set by law."}
+{"text": "Intimidation: threatening or frightening someone into doing something."}
+{"text": "Involuntary manslaughter: Death caused by a person who thought they might cause physical but not fatal harm and there was no lawful excuse."}
+{"text": "Issue: the legal word for:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 children; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the matter to be decided by a court action."}
+{"text": "Issued share capital: share capital which has been allocated to shareholders who have subscribed for (asked for) shares."}
+{"text": "Joint and several liability: two or more people responsible for repaying a debt. They are each responsible individually to repay all the debt as well as being responsible as a group."}
+{"text": "Joint lives policy: a life assurance policy on more than one person'slife. The policy pays out on the first death."}
+{"text": "Joint tenancy: two or more people having identical shares in land."}
+{"text": "Joint will: a single will which two or more people make to cover all their estates. Probate has to be obtained on each death."}
+{"text": "Joyriding: taking a vehicle without permission and using or allowing it to be used without authority."}
+{"text": "Judge: a person whose job is to adjudicate in court cases. The Crown and the Prime Minister appoint judges. Most are barristers but some are solicitors."}
+{"text": "Judge advocate: a lawyer who advises a military court which is trying an offence."}
+{"text": "Judge Advocate General: a lawyer who is in charge of military justice in the British Army and the Royal Air Force."}
+{"text": "Judge Advocate General's Department: a government department which appoints barristers to advise army and air force courts."}
+{"text": "Judge Advocate of the Fleet: a lawyer who is in charge of military justice in the British Navy."}
+{"text": "(Office of the) Judge Advocate of the Fleet: a government department which appoints barristers to advise naval courts."}
+{"text": "Judge in chambers: describes a hearing in front of a judge which is not held in court."}
+{"text": "Judgement: a decision by a court."}
+{"text": "Judgement creditor: a person who is owed money and who has been to court and obtained a judgement for the money owed."}
+{"text": "Judgement debtor: a person who owes the money a court judgement says is owed."}
+{"text": "Judgement in default: getting a judgement against you because you failed to do something. If a civil case has gone to court but the defendant does not do something required by the court (such as turn up), judgement for the claimant ('plaintiff' before April 1999) may be given."}
+{"text": "Judgement summons: a summons to appear in court to disclose (reveal) income and assets under oath because a judgement debtor has failed to pay the judgement debt."}
+{"text": "Judicial discretion: a degree of flexibility about the way courts do things."}
+{"text": "Judicial immunity: immunity that a judge normally has from being sued for damages when acting as a judge."}
+{"text": "Judicial precedent: Lower courts have to follow the decisions of higher courts. This is called judicial precedent, binding precedent or precedent."}
+{"text": "Judicial separation: a court order that two married people should live apart."}
+{"text": "Junior barrister: a barrister who is not a Queen's Counsel."}
+{"text": "Jurisdiction: is: or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the territory in which a court can operate;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the power it has to deal with particular cases;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the power it has to issue orders."}
+{"text": "Juror: one of the people who are acting as a jury."}
+{"text": "Jury: a group of people (usually 12) who review all the evidence in a court case and then come to a verdict."}
+{"text": "Jury service: serving on a jury. Most people between the ages of 18 and 70 can be required to serve on a jury."}
+{"text": "Just and equitable winding up: a winding up ordered because fairness cannot be achieved for all the members of a company."}
+{"text": "Justice of the Peace (JP): a person appointed by the Crown to act as a magistrate."}
+{"text": "Justification: claiming that a defamatory statement is true. In a defamation case a defendant may admit that the claimant ('plaintiff' before April 1999)'s allegations are true but plead that the statement which defamed was true."}
+{"text": "Justifying bail: proving to the court that the person giving the surety has the assets to pay the bail."}
+{"text": "Juvenile offender: a person aged between 10 and 17 who has committed a criminal offence."}
+{"text": "Kerb crawling: the offence committed in a street or public place by a man in a motor vehicle (or near a vehicle he has just got out of) who approaches a woman for sexual services in return for money."}
+{"text": "Kidnap: to take someone away by force against their will."}
+{"text": "Knock for knock: an agreement between insurance companies that they will pay for their own policyholders' losses regardless of who was to blame."}
+{"text": "Know-how: the expertise in an organisation which may be protected by a patent."}
+{"text": "Land: includes:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the buildings built on the land;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the subsoil;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the airspace above the land necessary for ordinary use of the land; and\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 property fixed to the land."}
+{"text": "Lasting powers of attorney: There are two types of lasting powers of attorney (in England and Wales) (LPA):\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 health and welfare; and\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 property and financial affairs.\nIf a person is capable of dealing with their own affairs at present they can make either or both types of LPA.\nA finance LPA can be used as soon as the Office for the Public Guardian has registered it. But, a health and welfare LPA can only be used when the person can no longer look after their own affairs. A lasting power of attorney gives another person authority to act on your behalf.\n"}
+{"text": "Lawsuit: a claim made in a court of law."}
+{"text": "Leading question: a question which:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 suggests the answer to be given; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 assumes things to be true which in fact are disputed."}
+{"text": "Lease: a contract between the owner of a property and a tenant, giving the tenant sole use of the property for an agreed time."}
+{"text": "Leasehold: property held by a tenant with a lease."}
+{"text": "Legacy: a gift left to someone in a will, but not including land."}
+{"text": "Legal aid scheme: a scheme for paying legal costs out of public funds for people who cannot afford to pay for them."}
+{"text": "Legatee: the person who receives a legacy."}
+{"text": "Lessee: the person a property has been leased to."}
+{"text": "Lessor: the person who lets a property by lease."}
+{"text": "Letter of credit: a letter one bank sends to a second bank asking them to pay money to a named person."}
+{"text": "Letters of administration: an authority the courts give to a person to deal with a dead person's estate. It is given when someone dies intestate."}
+{"text": "Liabilities: the debts that a person or organisation owes."}
+{"text": "Liability: a debt or obligation."}
+{"text": "Libel: a false statement made in writing or in some other permanent record (such as a film)."}
+{"text": "Licence: an authority to do something."}
+{"text": "Licensed conveyancer: a person authorised to do conveyancing (but not including solicitors)."}
+{"text": "Licensee: the holder of a licence to do something."}
+{"text": "Lien: the right to keep possession of something owned by someone who owes a debt, until the debt has been settled."}
+{"text": "Life assurance policy (or life insurance policy): a contract between the policyholder and the insurance company. The insurance company pays out if the policyholder dies."}
+{"text": "Life assured: the person whose life is assured by a life assurance policy."}
+{"text": "Life imprisonment: a sentence given to a criminal to be imprisoned for the rest of their life (though the Home Secretary may release them early on parole)."}
+{"text": "Life interest: an interest which will pass to someone else when the present owner dies."}
+{"text": "Life tenant: someone entitled to use property for the rest of their life."}
+{"text": "Limited company: a company which limits how much its members will have to pay if the company is wound up. The members of most limited companies will only have to pay any money unpaid on their shares. If a company limited by guarantee is wound up, the money its members have to pay is limited to the amount shown in the memorandum of association."}
+{"text": "Liquidated damages: damages agreed beforehand by the parties to a contract in case one of them should later break the terms of the contract."}
+{"text": "Liquidation: the process of winding up a company by disposing of its assets, paying its creditors in a strict order of priority and distributing any money left among the members."}
+{"text": "Liquidator: the person appointed to wind up a company."}
+{"text": "Litigant: a person involved in a lawsuit."}
+{"text": "Litigation: taking legal action through the courts."}
+{"text": "Loan capital: money borrowed by an organisation."}
+{"text": "Loan creditor: a person or organisation which has lent money to an organisation."}
+{"text": "Magistrate: a Justice of the Peace who presides over (is in charge of) minor cases heard in the magistrates' court."}
+{"text": "Magistrates' court: the lowest court. The things it deals with include minor criminal cases, most criminal cases involving 10- to 17-year-olds, issuing alcoholic drink licences and hearing child welfare cases."}
+{"text": "Maintenance: money paid (and things paid for) to support a partner (husband or wife) and children when a marriage has failed."}
+{"text": "Majority: the age when a person gains full legal rights and responsibilities. In the UK it is when a person becomes 18 years old."}
+{"text": "Male issue: male descendants (sons only) of men."}
+{"text": "Malfeasance: an unlawful act."}
+{"text": "Malice: intending to do something which is against the law."}
+{"text": "Malice aforethought: planning to kill someone or intending to do something which is likely to kill."}
+{"text": "Malicious falsehood: a written or spoken lie told to harm somebody and which does do harm."}
+{"text": "Malicious prosecution: a prosecution which is brought unreasonably."}
+{"text": "Mandate: an authority to act given by one party to another. An example is when a bank's customer writes instructions on the mandate for the bank to follow when operating the customer's account."}
+{"text": "Manslaughter: killing someone illegally but by accident. (See also Involuntary manslaughter and Voluntary manslaughter"}
+{"text": "Market overt: a lawful market in which, as long as someone buying goods is not aware that they do not belong to the seller, the buyer will get a good title to the goods."}
+{"text": "Martial law: government of a country by the military."}
+{"text": "Master of the Rolls: the person in charge of:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the Civil Division of the Appeal Court; and\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 admitting solicitors to the roll of solicitors in practice."}
+{"text": "Material facts: facts which are a key part of a defence or a claim."}
+{"text": "Matricide: the killing of a mother by her son or daughter."}
+{"text": "Matrimonial causes: the court proceedings:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to divorce people;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to separate a married couple; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to dissolve a marriage."}
+{"text": "Matrimonial home: the house that a husband and wife live in as a married couple."}
+{"text": "Mediation: help from an independent person (a mediator) to solve differences between a husband and wife whose marriage has broken down. The mediator helps them to agree what should be done about their children, money and so on."}
+{"text": "Memorandum and articles of association: The memorandum gives details of a company's name, objects (purposes) and share capital. It also sets out the limits of the shareholders' liability if thecompany has to be wound up. The articles set out the members' rights and the directors' powers."}
+{"text": "Mens rea: the intent to commit a crime and also the knowledge that an act is wrong. (This term is Latin.)"}
+{"text": "Mercantile law: the branch of the law dealing with commerce."}
+{"text": "Merchantable quality: the assumption in the law that goods sold by a business will be fit for their purpose."}
+{"text": "Mesne profits: income lost by a landlord because the property is occupied without the landlord's permission. An example would be a tenant failing to leave the property when the tenancy finished. It is also the profits lost by a landowner when wrongly deprived of the use of his or her land."}
+{"text": "Messuage: a house together with its land and outbuildings."}
+{"text": "Minor: someone who has not yet reached the age when they get full legal rights and responsibilities. In the UK this is a person under 18 years old."}
+{"text": "Minority: being under the age of full legal rights and responsibilities."}
+{"text": "Minutes: a record of the meetings held by members and directors of companies."}
+{"text": "Misadventure: an unexpected accident which happens while lawfully doing something."}
+{"text": "Miscarriage of justice: the court system failing to give justice to someone."}
+{"text": "Misconduct: deliberately doing something which is against the law or which is wrong."}
+{"text": "Misdirection: a judge instructing a jury wrongly."}
+{"text": "Misfeasance: when: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 something is done badly even though it is still legal; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a company officer does something which is a breach of trust or a breach of duty."}
+{"text": "Misrepresentation: a lie told to persuade someone to enter into a contract."}
+{"text": "Mistrial: a trial that has been made invalid."}
+{"text": "Mitigation: putting facts to a judge, after someone has been found guilty, to justify a lower sentence."}
+{"text": "Molest/Molestation: behaviour by a person which annoys or greatly\ntroubles their children or spouse. The behaviour can include violence, verbal threats and written threats."}
+{"text": "Money laundering: making money from crime and then passing it through a business to make it appear legitimate."}
+{"text": "Moratorium: an agreement not to take action to recover a debt for an agreed period of time."}
+{"text": "Mortgage: using property as security for a debt. It is also the name for the contract which is signed by the borrower and lender when money is lent using property as security for a loan."}
+{"text": "Mortgagee: the lender of the money which is secured by a mortgage."}
+{"text": "Mortgagor: the person who borrows the money to buy a property. The lending is secured with a mortgage of the property."}
+{"text": "Motive: a reason for a person doing something."}
+{"text": "Muniments: documents which are evidence of a right to something."}
+{"text": "Naked trust: a trust which holds property for a person until they ask the trustee to return it."}
+{"text": "Naturalisation: giving a citizen of one country citizenship of another."}
+{"text": "Negligence: lack of proper care to do a duty properly."}
+{"text": "Negligent: lacking proper care to do a duty properly."}
+{"text": "Negotiable instrument: a document which:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 is signed;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 is an instruction to pay an amount of money;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 can have its ownership changed by changing\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the name it is paid to; and\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 can have its ownership changed simply by being\ndelivered to its next owner."}
+{"text": "Next of kin: a person's closest blood relatives."}
+{"text": "Nondisclosure: the failure by one side to a contract to disclose (reveal) a fact to the other side that would influence their decision to go ahead with the contract."}
+{"text": "Non-exclusive licence: an agreement giving someone the right to use something but which does not prevent other people being given similar agreements."}
+{"text": "Notary: a person (usually a solicitor) who is authorised to certify documents, take affidavits and swear oaths."}
+{"text": "Not guilty: a court's verdict that the person charged with a crime did not commit it. When criminal court cases start the defendants are asked for their pleas. If they want to deny they committed the offence they plead not guilty. If a court's verdict is that the prosecution has not proved the defendant committed a crime, the defendant has been found not guilty."}
+{"text": "Notice: a warning of something which is about to happen."}
+{"text": "Notice to quit: a notice to end a tenancy on a stated date. It is usually sent by the landlord to the tenant although the tenant can also send one to the landlord."}
+{"text": "Not negotiable: cannot be transferred. If a bill of exchange is marked not negotiable it cannot be transferred to someone else."}
+{"text": "Novation: replacing an existing agreement with a new one."}
+{"text": "Nuisance: doing something that harms other people's rights."}
+{"text": "Oath: swearing the truth of a statement."}
+{"text": "Objects clause: a clause which forms part of a company's memorandum of association It sets out the purposes the company was formed for."}
+{"text": "Obligation: a legal duty to do something."}
+{"text": "Obligee: someone who, under a contract, receives money or has something done."}
+{"text": "Obligor: someone who is bound by a contract to pay money or do something."}
+{"text": "Obstruction: a motoring offence involving:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 leaving a vehicle or other obstruction in a road; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 driving in a way which inconveniences other road users."}
+{"text": "Occupation: taking control of a piece of land which belongs to someone else."}
+{"text": "Occupational pension Scheme: a pension scheme organised by an employer for its employees."}
+{"text": "Occupier: the person who is in control of a piece of land, such as a tenant."}
+{"text": "Offensive weapon: an object that is intended to physically injure someone."}
+{"text": "Offer: a promise to do something, or not to do something. If the promise is accepted it becomes legally binding."}
+{"text": "Offeree: the person who receives the legally binding offer."}
+{"text": "Offeror: the person who makes the legally binding offer."}
+{"text": "Official receiver: the person appointed to act as a receiver in bankruptcies and company winding-up cases. The Department of Trade and Industry appoints official receivers."}
+{"text": "Official secret: information which the Government classifies as confidential. It is a criminal offence to disclose an official secret without permission."}
+{"text": "Official Solicitor: an officer of the Supreme Court whose duties include acting for people who cannot act for themselves, such as children or people with mental health problems."}
+{"text": "Omission: a failure to do something."}
+{"text": "Oppression: the offence of public officials using their official positions to harm or injure people."}
+{"text": "Option: a type of contract under which money is paid for a right to buy or sell goods at a fixed price by a particular date in the future."}
+{"text": "Order: an instruction by or command of a court."}
+{"text": "Order in Council: an order given by the monarch (King or Queen) after taking advice from the members of the Privy Council."}
+{"text": "Originating summons: a summons that sets out the questions the court is being asked to settle. When the facts in a case are not disputed, but the interpretation of the law or of the documents needs to be resolved, an originating summons is prepared."}
+{"text": "Outlaw: formerly, a person who was not protected by the law."}
+{"text": "Overt act: an act done openly and from which the criminal intention of the act is clear."}
+{"text": "Panel: the list of people who have been summoned for jury service."}
+{"text": "Pardon: releasing someone from a court's punishment. The Crown has the right to alter, cancel or reduce the penalties imposed by the courts."}
+{"text": "Pari passu: equally. (This term is Latin.)"}
+{"text": "Parole: release from prison early. If someone is given parole they may be returned to prison if they offend again."}
+{"text": "Party: the claimant ('plaintiff' before April 1999) or defendant in a lawsuit. It is also someone who has taken out a contract or agreement."}
+{"text": "Passing off: pretending that the goods and services offered are those supplied by another business."}
+{"text": "Patent: an official right for a specified period of time to be the only person (or organisation) to make or sell something."}
+{"text": "Patricide: the killing of a father by his own son or daughter."}
+{"text": "Pawn: to pledge goods as security for a loan."}
+{"text": "Payee: the person money is being paid to."}
+{"text": "Payment into court: money paid to the court by the defendant for payment  to the claimant ('plaintiff' before April 1999)."}
+{"text": "Penalty: is:\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a sum of money which has to be paid if the terms of a contract are broken; or\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a punishment given to someone who commits a crime."}
+{"text": "Penalty points: points given by a court as punishment for driving offences. If enough penalty points have been collected the offenders may have their driving licences taken off them."}
+{"text": "Per: through or by. (This word is Latin.)"}
+{"text": "Performance: doing what is required under a contract."}
+{"text": "Perjury: lying to a court after you have been sworn in."}
+{"text": "Perpetuity: forever. The law prevents property being tied up in perpetuity because it could stop owners disposing of it."}
+{"text": "Per pro: on behalf of. (This term is Latin.)"}
+{"text": "Per quod: in accordance with or whereby. (This term is Latin.)"}
+{"text": "Per se: in itself or by itself. (This term is Latin.)"}
+{"text": "Personal guarantee: a pledge, by a person to a bank, to repay a debt owed to the bank if the bank's customer fails to pay it."}
+{"text": "Personal injury: an injury caused to a person."}
+{"text": "Personal property: all property except land."}
+{"text": "Personal representative: a person who is appointed to deal with a dead person's estate. If there is a will, the executors appointed will be the personal representatives. If there is no will, the courts will appoint someone called the administrator."}
+{"text": "Personalty: another word for personal property."}
+{"text": "Personation: pretending to be someone you are not."}
+{"text": "Per stirpes: describes property divided equally between the offspring. If a parent who is a beneficiary under a will dies and the legacy goes to the children in equal shares, the legacy has been divided per stirpes. (This term is Latin.)"}
+{"text": "Perverting the course of justice: doing something to interfere with the justice system (such as misleading the court or intimidating witnesses)."}
+{"text": "Plaintiff: the person who goes to court to make a claim against someone else. (Since April 1999, this term has been replaced with 'Claimant'.)"}
+{"text": "Plea: the defendant's answer to the accusations."}
+{"text": "Plea bargain: when the defendant pleads guilty instead of not guilty in return for a concession by the prosecution (such as dropping another charge)."}
+{"text": "Plead: to declare to the court whether you are guilty or not guilty."}
+{"text": "Pleadings: statements of the facts prepared by both sides in a civil case. Each side gives the other its pleadings so that they are both aware of what arguments will be used during the trial. (This term was replaced with statement of case' in April 1999)."}
+{"text": "Pledge: letting someone take possession of goods but the ownership does not change. It is often done to give security for money owed or to make sure that something is done as promised."}
+{"text": "Plenipotentiary: someone who has been given complete authority to act."}
+{"text": "Poaching: taking game from someone else's land without permission."}
+{"text": "Polygamy: being married to more than one person at once."}
+{"text": "Possess: to have property under your control."}
+{"text": "Possession: having something under your control even though you may not own it."}
+{"text": "Possessory title: gaining title through possession. If you have possession of something for a long time you may gain title to it even though you do not have documents to prove that it is yours."}
+{"text": "Post-mortem: the examination of a dead body to establish the cause of death."}
+{"text": "Power of appointment: a person giving a second person the power to dispose of the first person's property."}
+{"text": "Power of attorney: a document which gives power to the person appointed by it to act for the person who signed the document."}
+{"text": "Practising certificate: certificates showing a person is entitled to practise law. Every year the Law Society issues these certificates to the solicitors who can practise law."}
+{"text": "Preamble: an explanation of a proposed law. At the beginning of each Act of Parliament there is an explanation of what the Act is intended to achieve."}
+{"text": "Precedent: Lower courts have to follow the decisions of the higher courts. This is called precedent, binding precedent or judicial precedent."}
+{"text": "Precept: an order given by an official body or person. It is used:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 by a county council to tell a body to levy (charge) rates for the benefit of the county Council;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 by a sheriff to call an election; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to order payment of a sum of money, such as by a writ or a warrant."}
+{"text": "Pre-emption: the right to buy property before others are given the chance to buy."}
+{"text": "Preference: when insolvent, paying one creditor while leaving other creditors unpaid."}
+{"text": "Preference shares: a share entitled to a fixed dividend. Holders of preference shares are treated more favourably than ordinary shareholders. The preference dividend is at a fixed rate and must be paid in full before a dividend can be paid on the ordinary shares. When the company is wound up the preference shares must be fully paid out before the ordinary shareholders can be paid."}
+{"text": "Preferential creditor: a creditor who has to be paid in full before unsecured creditors can be paid anything."}
+{"text": "Prima facie: on the face of it. (This term is Latin.)"}
+{"text": "Principal: is: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 someone who authorises another person to act for them;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the actual person who committed a crime; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 an amount of money lent or invested, not Including the interest."}
+{"text": "Privilege: special rights which some people have because of the job they do or their special status. For example, diplomats of foreign countries are immune from arrest in the UK."}
+{"text": "Privity of contract: only the parties to a contract can sue each other over breaches of contract."}
+{"text": "Privy Council: a body of people appointed by the Crown. Its members include members of the royal family, present and former cabinet ministers and people who hold or have held high office. Its main duties are advising the Queen."}
+{"text": "Privy Purse: money given to the Crown for royal household expenses."}
+{"text": "Probate: authority to deal with a dead person's estate. When someone has died and left a will, the executors of the estate apply to the court for this authority."}
+{"text": "Probate Registry: a registry which deals with the forms which are needed when someone applies for probate."}
+{"text": "Probation: If a court convicts someone of an offence, the court may order that the offender is supervised by a probation officer for a period of at least six months but for no more than three years. This is known as probation and it is an alternative to sending the person to prison."}
+{"text": "Process: In law a process is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a summons or writ which is used to order someone to appear in court;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the whole of a case from beginning to end; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the total number of summonses or writs issued during a case."}
+{"text": "Procurator: a person who has been given authority to manage another person's affairs, such as under a power of attorney."}
+{"text": "Procurator fiscal: under Scottish law, a person who acts as public prosecutor and coroner."}
+{"text": "Product liability: the liability of manufacturers and sellers to compensate people for unsafe goods which have caused injury to people or property."}
+{"text": "Promisee: a person who has been promised something."}
+{"text": "Promisor: a person who has promised something."}
+{"text": "Promissory note: a written promise to pay an amount of money to someone at a given time."}
+{"text": "Property: the name for anything which can be owned."}
+{"text": "Pro rata: in proportion. For example, if 10 items cost \u00a3100 you would expect three items to cost \u00a330 if they were priced pro rata. (This term is Latin.)"}
+{"text": "Prosecution: the name for the team of people (lawyers and so on) bringing proceedings against someone else. Also when legal proceedings are taken against someone it is called a prosecution."}
+{"text": "Prosecutor: the person who brings legal proceedings, on behalf of the Crown, against the accused."}
+{"text": "Prospectus: a formal document giving details of a company's past performance and of its plans for the future. If a public company wants people to invest in it, it prepares a prospectus."}
+{"text": "Prostitution: selling sexual services for money."}
+{"text": "Protected tenancy: a tenancy agreement for a house. It gives the tenant the right to a fair rent and protection from eviction as long as the terms and conditions of the tenancy agreement are kept to."}
+{"text": "Proviso: a clause in a legal document which qualifies another section of the agreement."}
+{"text": "Provocation: causing someone to lose their self-control by doing or saying something (such as threatening to harm a baby) which would cause a reasonable person to temporarily lose their self-control."}
+{"text": "Proxy: a person appointed by a shareholder to go to a meeting of shareholders. The proxy can vote at the meeting for the shareholder."}
+{"text": "Proxy form: a form for shareholders by which, if it is delivered to a company at least 48 hours before the shareholders' meeting, the person who is the proxy will be able to vote at that meeting."}
+{"text": "Public mischief: something that someone does which damages the general community."}
+{"text": "Public nuisance: a crime by which the general public is put in danger or suffers damage to its health, property and so on."}
+{"text": "Putative father: the man found by a court to be the father of an illegitimate child."}
+{"text": "Qualifying child: when used in connection with Child Support this means a natural child or adopted child who is under 16, or under 19 if receiving full-time education."}
+{"text": "Quango: an organisation set up by the Government to do a particular activity. It is partly independent and does not form part of the Government."}
+{"text": "Quarter days: in England the days when payments which are made every quarter should be paid. The quarter days are the days that the seasons are said to start. The actual dates and their names are: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 25 March - Lady Day;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 24 June - Midsummer Day;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 29 September - Michaelmas Day; and\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 25 December - Christmas Day."}
+{"text": "Queen's Bench Division: part of the High Court. Its main function is to deal with civil cases."}
+{"text": "Queen's Counsel (QC): a barrister who has been chosen by the Lord Chancellor to serve as counsel to the Crown. A Queen's Counsel is more senior than other barristers."}
+{"text": "Queen's evidence: evidence for the prosecution given by someone who is also accused of the crime being tried."}
+{"text": "Quiet enjoyment: allowing a tenant to use land without interference. When a tenancy is created the landlord is expected to allow the tenant to use the land without any interference, unless the tenancy agreement allows it."}
+{"text": "Quiet possession: using property without interference. When property is sold the buyer should be able to use the property free from interference by the seller."}
+{"text": "Quorum: the lowest number of qualifying people needed for a meeting to be able to make a decision."}
+{"text": "Racial discrimination: treating someone less favourably because of their race, colour, nationality or culture."}
+{"text": "Rack rent: the full market value rent of a property."}
+{"text": "Rape: having sex with a person without their permission (such as if they were asleep or unconscious) or forcing them to have sex against their will."}
+{"text": "Real: relating to immovable property such as buildings or land."}
+{"text": "Real estate: land owned by someone who has died. In the USA it is also land and buildings used for business purposes."}
+{"text": "Real property: land and buildings, minerals in the land and rights over the land."}
+{"text": "Realty: another word for real property."}
+{"text": "Reasonable force: necessary force. Reasonable force is a complex issue but essentially use of some force must be necessary to defend your property or yourself and the force used must be in proportion to the threat."}
+{"text": "Receiver: someone appointed to:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0 sell assets to raise money to repay lenders; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0 protect property."}
+{"text": "Receiving: gaining control of stolen property."}
+{"text": "Recognisance: an undertaking, given by someone to a court, to make sure that they do what the court requires. If they do not do as the court wishes they may have to pay a sum of money."}
+{"text": "Record: the documents in a court case from beginning to end."}
+{"text": "Recorder: a part-time High Court judge."}
+{"text": "Recovery: regaining possession of land by taking court proceedings."}
+{"text": "Redemption: paying off all the money borrowed under an agreement."}
+{"text": "Redundancy: being dismissed from a job because it no longer exists."}
+{"text": "Registered land: any land recorded at the Land Registry. There is a system of recording and registering, at the Land Registry offices, details of land ownership and interests in land."}
+{"text": "Registered office\nAlso, the company's registers can be inspected at the registered office.: the official address where documents can be served on a company."}
+{"text": "Registrar of Companies: an official in charge of the office which keeps records of registered companies. There is a registrar for Scotland and another one for England and Wales."}
+{"text": "Reinsurance: an insurance company insuring part of a risk it is covering. If an insurance company has taken on a large insurance contract it may decide to spread the risk of loss by insuring part of the risk with another insurance company."}
+{"text": "Release: means:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to give up a valid claim against someone;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to free someone from prison; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a document used to cancel a claim one person has against another."}
+{"text": "Remainder: an interest which starts when a previous interest finishes. When more than one person has been left an interest in land the first person to possess an interest will have to die before the next person can possess an interest in the land, and so on."}
+{"text": "Remand: being kept in prison or paying bail. If an accused person is placed on remand they are either kept in prison for a short period or have to pay bail or get someone to pay it for them. It is used for short periods before a trial starts."}
+{"text": "Remedy: using the law to get compensation for damage done or for rights infringed. Also, a remedy can be using the law to prevent something from happening."}
+{"text": "Renouncing probate: a proposed executor refusing to act. Sometimes when a testator dies an executor will not wish to accept appointment. The executor has to tell the Probate Registry about it in writing."}
+{"text": "Rent: a regular payment to the landlord by a tenant in return for being allowed to possess and use the landlord's property."}
+{"text": "Repeat offender: a person who continues to commit the same offence."}
+{"text": "Reply: a claimant ('plaintiff' before April 1999)'s answer to a claim. In a civil case the defendant may offer a defence to the claim, or even make a counterclaim."}
+{"text": "Repossession or Repossess: a mortgagee recovering vacant possession of the property mortgaged."}
+{"text": "Representation: Is: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 acting on behalf of someone else (such as a solicitor acting for a client);\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 taking someone else's place (such as when a court gives an executor the right to deal with a dead person's affairs); or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a statement in a contract."}
+{"text": "Representative action: one or more people, in a group of people with the same grievance, taking legal action representing the group."}
+{"text": "Reprieve: a judge suspending or cancelling punishment for an offence."}
+{"text": "Rescission: the cancellation of a contract."}
+{"text": "Reservation of title: a contract which leaves ownership of the goods with the seller until the goods have been paid for."}
+{"text": "Reserves: money set aside in accounts which can be spent in later years. Some types of reserve can only be spent if certain conditions are met."}
+{"text": "Residence order: an order which a court issues when it has decided where a child should live, setting out details of the court's decision."}
+{"text": "Residuary legacy: what remains to be given out from an estate after all debts, taxes and specific legacies have been paid."}
+{"text": "Residue: what is left of an estate after all debts, taxes, expenses and specific legacies have been dealt with."}
+{"text": "Res ipsa loquitur: proof is not needed because the facts speak for themselves. If the defendant was in charge of events and an accident was caused on the face of it by negligence, then it may be presumed that the defendant was negligent unless there is evidence to the contrary. (This term is Latin.)"}
+{"text": "Resisting arrest: a person trying to prevent the police arresting him or her. A charge could be made of obstructing a police officer in the course of duty."}
+{"text": "Resolution: a decision taken by the members of a company in a meeting."}
+{"text": "Respondent: the person an action is being taken against."}
+{"text": "Restitution: is: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 an order for the return of stolen goods to the victim of the theft or for compensation to be paid to the victim; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a writ, following a successful appeal, for the return of the items lost after the original case."}
+{"text": "Restraining order: an order which a court may issue to prevent a person from doing a particular thing. For example, if someone has been harassing another person, the court may order that the harassment must stop."}
+{"text": "Restriction: when placed on a piece of land the owner cannot sell or mortgage the land."}
+{"text": "Restriction order: This order by the Crown Court prevents a person being discharged from hospital, to protect the public."}
+{"text": "Restrictive covenant: a deed which restricts how a piece of land can be used."}
+{"text": "Retainer: a payment to a barrister to act in a case."}
+{"text": "Retention of title : another term for reservation of title."}
+{"text": "Reversion/ Revocation: cancellation."}
+{"text": "Revoke: to cancel or withdraw."}
+{"text": "Revolving credit Agreement: a loan agreement under which a person can borrow again to top up the loan, as long as they do not go over their credit limit."}
+{"text": "Right of way: a legal right obliging the owner of land to allow authorised people to cross it."}
+{"text": "Rights issue: an issue of extra shares by a company. Existing shareholders can buy extra new shares in proportion to the shares they already hold. The shares are usually on sale at a lower price than the stock market price to encourage shareholders to buy. The shareholders can sell the rights if they do not wish to use them."}
+{"text": "Riot: a gathering of 12 or more people using, or threatening to use, violence to achieve a common end."}
+{"text": "Robbery: using or threatening to use force while carrying out a theft."}
+{"text": "Sale or return: an arrangement under which goods can be kept by the potential buyer for a period while their resale is attempted. Unsold goods can be returned if the conditions of the contract have been kept to and the buyer pays for the goods used."}
+{"text": "Salvage: compensation paid by the owners for saving ships, aircraft and property from the sea."}
+{"text": "Satisfaction: is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 paying a debt;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 settling an obligation by an act; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 settling an obligation by substituting something satisfactory for what was originally required."}
+{"text": "Scheme ofArrangement : an agreement between a person with debts, who cannot pay them when they are due, and the creditors. The creditors share the money the debtor manages to pay in proportion to what they are each owed."}
+{"text": "Scrip: a certificate showing the extra shares and fractions of shares the owner is entitled to."}
+{"text": "Scrip dividend: a dividend paid in shares instead of cash."}
+{"text": "Scrip issue: free shares offered to the members of a company in proportion to their shareholdings."}
+{"text": "Search: inspection of the registers maintained by organisations such as the Land Registry. When a person intends to buy a property such as a house, a solicitor arranges the inspection. This is to find out if there is any adverse information about the property or the surrounding area."}
+{"text": "Search warrant: a warrant issued by a magistrate, or High Court judge, to allow police officers to search premises."}
+{"text": "Securities: stocks, shares, debentures and so on where there is a right to receive interest or dividends from the investment."}
+{"text": "Security: something of value pledged to a bank by a borrower. If the borrower fails to repay the debt, the bank can sell the security and repay the debt out of the proceeds of the sale."}
+{"text": "Security of tenure: protection from a landlord attempting to obtain possession of the property the tenant is renting."}
+{"text": "Sedition: writing things or saying things which encourage ordinary people to rise up against the Government or which cause discontent."}
+{"text": "Sentence: the penalty the court imposes on someone found guilty of an offence."}
+{"text": "Separation order: a court order that a husband and wife can live separately if they wish."}
+{"text": "Sequestration: a court order for the seizure of someone's property."}
+{"text": "Settle: means: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to create a settlement;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to end a case by agreement; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 to draw up a contract and agree its terms."}
+{"text": "Settlement: when property is bestowed, usually by a will or a deed, on a trust for the benefit of people decided by the settlor. It also means voluntarily agreeing to settle a civil case."}
+{"text": "Settlor: the person who gives property to a settlement."}
+{"text": "Several: separate (not joint)."}
+{"text": "Shadow director: a person who has not been appointed a director of a company but nevertheless gives instructions to the directors, which they comply with."}
+{"text": "Share capital: the money invested directly in a company by its members. When the shares are first made available by the company, people can apply to buy them. The company states the price it wants for the shares."}
+{"text": "Share certificate: a document which certifies who owns shares in a Company. It gives the type and number of shares owned by the shareholder and lists the serial numbers of the shares."}
+{"text": "Share premium Account: an account in a set of books recording the extra amount over face value that shares have been issued for. If shares are issued for more than their face value, the extra amount over face value is called a share premium."}
+{"text": "Sheriff: someone appointed each year by the Crown to be a county's senior officer. Each county in the UK has a sheriff. To be eligible for the office the person must own some land in the county. The areas of the law which come within the sheriff's jurisdiction are largely dealt with by the under-sheriff."}
+{"text": "Shoplifting: stealing goods from a shop."}
+{"text": "Shorthold tenancy: a tenancy under which the law allows the landlord to repossess the house."}
+{"text": "Sine die: indefinitely. If a case has been adjourned sine die no date has been set for it to be continued. (This term is Latin.)"}
+{"text": "Slander: saying something untrue about a person or doing something, such as making a gesture, which damages their reputation."}
+{"text": "Small claims court: a section of the county court which deals with small claims. There is a simplified way of making a claim in the county court in a civil case where the claim is for no more than \u00a35000 (or \u00a31000 in personal injury cases). Neither side can claim costs."}
+{"text": "Smuggling: importing or exporting goods illegally to avoid a ban on them or to avoid the duties on them."}
+{"text": "Sold note: a note that shows details of investments which have been sold, including the sale price and any charges taken. Stockbrokers produce sold notes for their clients."}
+{"text": "Soliciting: a prostitute attempting to get clients in a street or other public place."}
+{"text": "Solicitor: a person who can deal with legal matters for the public and give advice on legal matters. All solicitors are listed on the roll of solicitors kept by the Law Society. Some solicitors can appear for their clients in some of the lower courts."}
+{"text": "Solicitor General: the assistant of the Attorney General. They both advise the Government."}
+{"text": "Special resolution: a resolution which must be approved by holders of at least 75% of the shares with voting rights. (Some types of share give their owners the right to vote at shareholder meetings, but there are other types which do not.)"}
+{"text": "Specific performance: a court order to complete a contract. The courts may order a person who has failed to fulfil an obligation under a contract to complete it."}
+{"text": "Spent conviction: a conviction which, after the passage of a stated time period, does not have to be disclosed (revealed) to a court."}
+{"text": "Squatter: a person who occupies land illegally."}
+{"text": "Stalking: the name given to a form of harassment where a person is made to feel alarmed or distressed by another person's actions. The prosecution has to prove that a reasonable person would have known that the behaviour would create distress or fear. The harassment must have happened on at least two occasions."}
+{"text": "Stamp duty: a tax on the transfer documents for certain types of transaction. Examples are buying shares, patent rights and properties."}
+{"text": "Statement of claim: the claimant's written statement setting out the claim in a civil case. (This term has not been used since April 1999.)"}
+{"text": "Status: how the law regards a person, such as whether the person is a minor or a bankrupt and so on."}
+{"text": "Statute: an Act of Parliament."}
+{"text": "Statute book: all the existing statutes in a country."}
+{"text": "Statute law: the law created by Acts of Parliament."}
+{"text": "Statute of limitation: a statute which sets out the time limits within which a court action must take place."}
+{"text": "Statutory accounts: company accounts which have been filed with the Registrar of Companies. The accounts have to disclose (show) the information required by the Companies Acts."}
+{"text": "Statutory audit: an audit required by law. Certain companies have to have their accounts audited by suitably qualified accountants."}
+{"text": "Statutory books: books of account which companies must keep by lawto show and explain all their transactions. "}
+{"text": "Statutory demand: a written demand for payment of a debt of more than \u00a3750."}
+{"text": "Statutory instrument: a power delegated by Parliament. Parliament can delegate its power to make and amend law to a person or organisation. A statutory instrument is one of these powers and is used by government ministers to amend legislation."}
+{"text": "Stay of execution: the suspension of the carrying out of a court order."}
+{"text": "Stipendiary magistrate: a magistrate who gets a salary."}
+{"text": "Stockbroker: a person who buys and sells stocks and shares for clients."}
+{"text": "Subduct: to withdraw."}
+{"text": "Subject to contract: an agreement which is not binding until a contract has been signed."}
+{"text": "Sub judice: describes something being dealt with by a court which cannot be discussed outside the court. (This term is Latin.)"}
+{"text": "Subpoena: a writ requiring the person it is addressed to to attend at a specific place (such as a court) on a specific date and at a stated time."}
+{"text": "Subrogation: substituting one person for another including all rights and responsibilities."}
+{"text": "Subscribers: the people who set up a limited company."}
+{"text": "Subsidiarity: subsidiary activities. Member countries of the European Community agreed that activities could be done by the individual member countries unless they could not do them adequately alone. The European Community therefore should only do subsidiary activities and this is called subsidiarity."}
+{"text": "Subsidiary: a company controlled by another company. The control is normally a result of having more than 50% of the voting rights."}
+{"text": "Sue: to start legal proceedings in the civil court against someone."}
+{"text": "Suicide: the act of killing oneself intentionally."}
+{"text": "Sui generis: describes something that belongs in a particular category or is the only one of its class. (This term is Latin.)"}
+{"text": "Sui juris: describes someone who can enter into a contract without any restriction. (This term is Latin.)"}
+{"text": "Suit: proceedings brought by one person against another in a civil court."}
+{"text": "Summary judgement: obtaining judgement without a trial. In an action in the High Court to recover damages or a debt, if the claimant ('plaintiff' before April 1999) swears an affidavit that it is believed that there is no defence to the claim, the claimant ('plaintiff' before April 1999) can obtain summary judgement."}
+{"text": "Summary offence: an offence that can only be tried by magistrates. Most minor offences are summary offences."}
+{"text": "Summary proceedings: a trial by magistrates, where the defendant has the right to choose which court should hear the case, but has agreed to be tried in the magistrates' court."}
+{"text": "Summary trial: a trial by magistrates."}
+{"text": "Summing up: the judge's summary of a case. At the end of a trial by jury the judge explains points of law in the case to the jury, explains the jury's role and summarises the evidence."}
+{"text": "Summons: an order by a court that a person attend at a particular court at a stated time on a particular date."}
+{"text": "Superior courts: the higher courts in English law, which include the High Court, the Court of Appeal, the Crown Court and the House of Lords. Their decisions act as precedents for the lower courts to follow."}
+{"text": "Supervision order: a court order that a child should be supervised by a probation officer or a local authority."}
+{"text": "Supra: above (see above or before in the document). (This word is Latin.)"}
+{"text": "Supreme Court: the highest court below the House of Lords. The full name is the Supreme Court of Judicature. It is divided into: \n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the Crown Court;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the High Court of Justice; and\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 the Court of Appeal."}
+{"text": "Surcharge: a penalty charged if tax is paid late. It is also an extra charge banks make if customers do not keep to the agreements they made with the bank."}
+{"text": "Surety: someone who takes responsibility for someone else's debts or promises, and guarantees that they will be paid or undertaken (done). It is also the name for the money put up as security that someone will appear in court. If they do not appear in court the money will be forfeited."}
+{"text": "Suspended sentence: a sentence that is postponed until the offender is convicted of another offence."}
+{"text": "SWIFT payment: a payment from one bank account to another using the SWIFT system. SWIFT stands for Society for Worldwide Interbank Financial Telecommunications and it is an international system for paying by credit transfer."}
+{"text": "Tangible asset: an asset which can be physically touched."}
+{"text": "Tangible property: property that physically exists."}
+{"text": "Tax: money raised by the Government to pay for the services it provides. Some taxes are called indirect because they are part of the price we pay for goods and services, such as VAT. Other tax is called direct because the individual taxpayer pays it. Income tax and corporation tax are examples of direct taxes."}
+{"text": "Taxable supply: a term for supplying goods and services on which value added tax can be charged. This applies even if the tax rate is 0% at present, because it can be increased if the Government chooses to."}
+{"text": "Taxation: the levying of taxes."}
+{"text": "Taxation of costs: the scrutiny of and, if necessary, the lowering of a solicitor's bill to a client. The scrutiny is done by a court officer."}
+{"text": "Tax avoidance: reducing tax bills by using legal means."}
+{"text": "Tax evasion: breaking the law to reduce tax bills, such as by concealing income."}
+{"text": "Tax point: the date when value added tax arises on goods or services supplied (or made available) to a customer. The tax point should be displayed on invoices. It is not necessarily the same as the date of the invoice."}
+{"text": "Teeming and lading: a term used to describe attempts to hide the loss of cash received from one customer by using cash from other customers to replace it. This fraud can carry on by using cash from other customers in the same Way"}
+{"text": "Tenant: a person or organisation granted a lease."}
+{"text": "Tender: supplying a price for a job. If an organisation asks firms to send in tenders for supplying something, they are asking for firm written offers to do the work to an agreed standard and at a stated price."}
+{"text": "Tenure: how a piece of land is held by the owner (for instance freehold or leasehold)."}
+{"text": "Term: any of the clauses which form part of a contract."}
+{"text": "Terra: land. (This word is Latin.)"}
+{"text": "Terrorism: using violence for political purposes."}
+{"text": "Testament: a will dealing with personal property."}
+{"text": "Testamentum: another name for a will."}
+{"text": "Testator: a person who makes a will."}
+{"text": "Testify: to give evidence."}
+{"text": "Testimony: the evidence a witness gives in court."}
+{"text": "Theft: taking someone else's property dishonestly, with the intention of never returning it."}
+{"text": "Threatening behaviour: using threats, abuse or insults against another person."}
+{"text": "Timeshare: an arrangement where people can buy a share in part of a property for a period of time in each year. They can use their part of the accommodation each year for the period that is theirs."}
+{"text": "Title: the right to own something."}
+{"text": "Title deeds: the documents which prove who owns a property and under what terms."}
+{"text": "Toll: a payment in return for being allowed to travel over a road, bridge and so on."}
+{"text": "Tort: doing something which harms someone else. It may result in a claim for damages. (This word is Old French.)"}
+{"text": "Tortfeasor: someone who commits a tort."}
+{"text": "Trademark: a mark which is registered at trademark registries and which is used on products produced by the owner. It is illegal for anyone else to display the mark."}
+{"text": "Transcript: the official record of a court case."}
+{"text": "Transferable securities: securities, such as debentures, which can have their ownership changed."}
+{"text": "Transferee: the person something is transferred to."}
+{"text": "Transferor: the person who transfers something to someone else."}
+{"text": "Treason: the crime of betraying your country such as helping your country's enemies in wartime."}
+{"text": "Treasure trove: treasure found in a hiding place and whose owner cannot be traced. It belongs to the Crown but the finder and the landowner may get a reward."}
+{"text": "Treasury: the government department which administers (manages) the country's finances."}
+{"text": "Treasury bill: an unconditional promise by the Treasury to repay money it has borrowed for the short term (up to one year), to pay for government spending."}
+{"text": "Treasury Solicitor: the person who gives legal advice to the Treasury."}
+{"text": "Trespassing: going on land without the owner's permission."}
+{"text": "Trial: an examination of the evidence in a case and the law which applies."}
+{"text": "Tribunal: is:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a body set up to act like a court, but outside the normal court system;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a forum to hear disputes and with the authority to settle them;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a body given power by statute to discipline members of a profession who do not keep to the high standards of behaviour demanded of members of the profession; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a body set up by the members of an association to police the members' actions."}
+{"text": "Trust: a financial arrangement under which property is held by named people for someone else."}
+{"text": "Trust corporation: a company which acts as a trustee and holds a trust's assets."}
+{"text": "Trust deed: a legal document which is used to:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 create a trust;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 change a trust; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 control a trust."}
+{"text": "Trustee: a person who holds property and looks after it on behalf of someone else."}
+{"text": "Trustee in bankruptcy: a person who administers (manages) a bankrupt person's estate and pays any available money to the creditors."}
+{"text": "Uberrimae fidei: of the utmost good faith. In certain contracts (such as insurance policies) one party must disclose (reveal) any material facts to the other party. If they are not disclosed the contract can be cancelled or become unenforceable. (This term is Latin.)"}
+{"text": "Ultra vires: beyond one's powers. If an organisation does something ultra vires, what it has done is invalid."}
+{"text": "Underlease: the lease of a property by a tenant of the property to someone else."}
+{"text": "Undertaking: a promise which can be enforced by law such as a promise made by one of the parties or by their counsel during legal proceedings."}
+{"text": "Unfair contract terms: prevents a party to a contract unfairly limiting their liability. The Unfair Contract Terms Act 1977 was passed to control unfair exclusion clauses. In particular, in a case where someone had been killed or injured because of someone else's negligence the act prevented a contract limiting the negligent person's liability."}
+{"text": "Unfair dismissal: sacking an employee unfairly. When an employee has been dismissed it is the employer's responsibility to prove that the dismissal was fair. If an industrial tribunal finds that the dismissal was unfair it can insist on compensation or reinstatement."}
+{"text": "Unit trust: a trust which manages investments. People can invest in unit trusts by buying units. The managers of the trust use the money people invest to buy investments. The fund manager values the fund's assets from time to time and puts a new price on the fund's units."}
+{"text": "Unlawful wounding: wounding someone without the justification of self defence or without power given by the law."}
+{"text": "Unliquidated damages: the amount of damages decided by a court because the parties to a contract had not agreed in advance how much the damages would be for breaking the terms of the contract."}
+{"text": "Unreasonable behaviour: behaviour by a married person that justifies the other partner in the marriage living apart."}
+{"text": "Unregistered company: a company which is not registered under the Companies Acts."}
+{"text": "Unregistered land: land which is not recorded in the registers at HM Land Registry."}
+{"text": "Unsecured creditor: someone who has lent money without getting any security for the loan."}
+{"text": "Uterine: describes people who have the same mother but different fathers."}
+{"text": "Vendee: a person who buys something."}
+{"text": "Vendor: a person who sells something."}
+{"text": "Verdict: the jury's decision at the end of a case."}
+{"text": "Vesting order: a way the High Court transfers land without the need for a conveyance."}
+{"text": "Vexatious litigant: a person who regularly brings court cases which have little chance of succeeding."}
+{"text": "Vicarious liability: a situation where someone becomes responsible under the law for wrongs done by someone else. This often happens when an employee does something wrong while at work which becomes the employer's responsibility (such as an employee working negligently and causing someone else to be hurt because of the negligence)."}
+{"text": "Violent disorder: three or more people in a gathering using or threatening to use unlawful violence."}
+{"text": "Void: unable to be enforced by the law."}
+{"text": "Voidable: - able to be cancelled in certain circumstances."}
+{"text": "Voluntary arrangement: an agreement between a debtor and the creditors. If a person or a company cannot pay their debts when they are due they can come to a voluntary arrangement with the creditors to pay the debts over a period. If the creditors agree with the proposals it avoids bankruptcy of the individual or liquidation of the company."}
+{"text": "Voluntary manslaughter: Murder and voluntary manslaughter have the same meaning in law. But there are four defences that can reduce the crime in seriousness to manslaugher:\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Provocation;\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Diminished responsibility;\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Infanticide: and\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Suicide."}
+{"text": "Ward of court: a person who is protected by the High Court, such as a minor."}
+{"text": "Warrant: is: \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a certificate which gives the person holding it the right to buy shares at a given price;\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a magistrate's written instruction to arrest someone; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a magistrate's written instruction to search a property."}
+{"text": "Warranty: a term in a contract. If the term is not complied with damages can be claimed by the injured party."}
+{"text": "Wayleave: a right of way through or over a piece of land often for a particular purpose, such as for a pipeline to go through a piece of land or for goods to be carried over it."}
+{"text": "Will: a legal document which people use to bequeath (leave as a gift) money and property when they die."}
+{"text": "Winding up: disposing of all a company's assets and paying all its debts. Any money left is then divided among the members."}
+{"text": "Without prejudice: when written on a document, the document cannot be used as evidence that a contract or agreement exists."}
+{"text": "Witness: someone who:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 watches a signature being put on a document, and then signs as well to verify the signature's authenticity; or\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 attends court to testify about events they know about.\nTo witness a document is to watch it being signed and then add your own signature and name, address and occupation.\n"}
+{"text": "Words of art: words which have a fixed meaning in law so that their use in a legal document can have only one interpretation."}
+{"text": "Writ: an order issued by a court telling someone to do something or not to do something. (This has been known as a 'claim form' since April 1999)."}
+{"text": "Writ of execution: a type of writ ('claim form' since April 1999) used when a court judgement needs enforcing."}
+{"text": "Writ of summons: a type of writ ('claim form' since April 1999) used to start a civil case in the High Court. (This has been known as a 'claim form' since April 1999)."}
+{"text": "Wrongful dismissal: ending an employee's contract without following the contract's terms."}
+{"text": "Wrongful trading: continuing to trade while knowing that there is little prospect of the company being able to pay its debts."}
+{"text": "Young offender : a person between the ages of 14 and 17 who has committed a crime"}
+{"text": "Adjudicating Authority (AA): The authority that decides on insolvency petitions and other matters under the IBC. They are\u00a0National Company Law Tribunal (NCLT), Debt Recovery Tribunal (DRT) and National Company Law Appellate Tribunal (NCLAT)."}
+{"text": "Corporate debtor: A company, limited liability partnership, or other legal entity that is undergoing insolvency proceedings under the IBC."}
+{"text": "Corporate Insolvency Resolution Process (CIRP): One of the most used IBC terms, CIRP is the process for resolving the insolvency of a corporate debtor."}
+{"text": "Committee of Creditors (CoC): The committee of lenders of a corporate debtor, which is responsible for approving the resolution plan."}
+{"text": "Debt recovery tribunal (DRT): The tribunal that hears cases related to the recovery of debts under the Recovery of Debts Due to Banks and Financial Institutions Act, 1993."}
+{"text": "Financial Creditor: A financial creditor under the Insolvency and Bankruptcy Code, 2016 (IBC) is a person to whom a financial debt is owed, including a person to whom such debt has been legally assigned or transferred."}
+{"text": "Financial debt: is defined as a debt along with interest, if any, that is disbursed against the consideration for time worth of money and includes money borrowed against interest payment; money raised by issuing bonds, debentures, or other securities or any amount that is due to a financial institution under a financial contract."}
+{"text": "Insolvency and Bankruptcy Board of India (IBBI): The regulator of the insolvency and bankruptcy sector in India."}
+{"text": "Insolvency professional: A person who is qualified to provide services under the IBC, such as an insolvency resolution professional or bankruptcy trustee."}
+{"text": "Interim resolution professional (IRP): An interim resolution professional (IRP) is a person appointed by the Adjudicating Authority (AA) under the Insolvency and Bankruptcy Code, 2016 (IBC) to manage the affairs of a corporate debtor during the initial stages of the corporate insolvency resolution process (CIRP). The IRP is responsible for collating\u00a0information pertaining to the operations, assets and finances of the corporate debtor to understand its financial position; gathering all the claims made by the creditors against the corporate debtor and forming the Committee of Creditors (COC), among others"}
+{"text": "Fast track insolvency resolution process (FTRP): A simplified insolvency resolution process for small and medium enterprises."}
+{"text": "Liquidation: Another commonly used IBC terms, it refers to the process of selling the assets of a corporate debtor and distributing the proceeds to the creditors."}
+{"text": "Moratorium: A temporary stay on the enforcement of creditors\u2019 rights against a corporate debtor during the CIRP."}
+{"text": "One-time settlement (OTS): A mechanism under the IBC for settling debts of a corporate debtor on mutually agreed terms."}
+{"text": "Operational creditor: A creditor who has a debt arising from the supply of goods or services to a corporate debtor in the ordinary course of business."}
+{"text": "Personal guarantor: A Personal Guarantor is\u00a0an individual who provides a guarantee to secure the obligations of a borrower, typically a corporate entity, towards a lender. When the borrower defaults on its obligations, the personal guarantor becomes liable to repay the dues on behalf of the borrower."}
+{"text": "Prepackaged insolvency resolution: A mechanism under the IBC for resolving the insolvency of a corporate debtor through a pre-packaged plan of arrangement."}
+{"text": "Resolution applicant: A person who makes an application for the initiation of CIRP."}
+{"text": "Resolution plan: A plan for the revival or liquidation of a corporate debtor that is submitted to the CoC for approval."}
+{"text": "Resolution professional: The professional appointed by the AA to oversee the CIRP."}
+{"text": "Successful resolution applicant (SRA): An entity or a person whose resolution plan has been approved by the creditors\u2019 committee (CoC) of a corporate debtor as well as by the NCLT. The SRA is responsible for implementing the resolution plan and reviving the corporate debtor."}
+{"text": "Secured creditor: A creditor who has a security interest in the assets of a corporate debtor."}
+{"text": "Swiss Challenge: It is a bidding process wherein a bidder makes an unsolicited bid to the auctioneer. Once approved, the auctioneer then seeks counter proposals against the original proposal and chooses the best amongst all options (including the original bid). The original bidder in most cases is granted the \u2018right to first refusal\u2019. If the original bidder agrees to match its offer to the challenging proposal, the project is awarded to him, else it is awarded to the challenging bidder."}
+{"text": "Unsecured creditor: A creditor who does not have a security interest in the assets of a corporate debtor."}
+{"text": "Waterfall Mechanism: The waterfall mechanism under the Insolvency and Bankruptcy Code, 2016 (IBC) is a legal device that determines the order in which creditors are paid when a corporate debtor is liquidated. As per the waterfall mechanism, insolvency and liquidation cost is first paid followed by dues of workmen and secured creditors, employees, unsecured creditors and government."}

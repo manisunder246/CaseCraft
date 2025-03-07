@@ -1,0 +1,17 @@
+{"time":"2025-01-20T19:52:35.053936+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/wandb/run-20250120_195234-mc72g8w0/logs/debug-core.log"}
+{"time":"2025-01-20T19:52:35.161553+05:30","level":"INFO","msg":"created new stream","id":"mc72g8w0"}
+{"time":"2025-01-20T19:52:35.16158+05:30","level":"INFO","msg":"stream: started","id":"mc72g8w0"}
+{"time":"2025-01-20T19:52:35.161687+05:30","level":"INFO","msg":"handler: started","stream_id":"mc72g8w0"}
+{"time":"2025-01-20T19:52:35.161796+05:30","level":"INFO","msg":"sender: started","stream_id":"mc72g8w0"}
+{"time":"2025-01-20T19:52:35.161936+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mc72g8w0"}
+{"time":"2025-01-20T19:52:38.247316+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-20T19:57:53.423073+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-20T19:57:55.382303+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mani246-bits-pilani/Fine-tune%20Llama%203.2%2011B%20on%20legal%20glossary/mc72g8w0/file_stream\": unexpected EOF"}
+{"time":"2025-01-20T20:25:21.393041+05:30","level":"INFO","msg":"stream: closing","id":"mc72g8w0"}
+{"time":"2025-01-20T20:25:21.393376+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-20T20:25:21.395348+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-20T20:25:22.719118+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-20T20:25:25.4092+05:30","level":"INFO","msg":"handler: closed","stream_id":"mc72g8w0"}
+{"time":"2025-01-20T20:25:25.409225+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mc72g8w0"}
+{"time":"2025-01-20T20:25:25.409291+05:30","level":"INFO","msg":"sender: closed","stream_id":"mc72g8w0"}
+{"time":"2025-01-20T20:25:25.409412+05:30","level":"INFO","msg":"stream: closed","id":"mc72g8w0"}

@@ -1,0 +1,15 @@
+{"time":"2025-01-20T14:57:07.281785+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/manisunder/Desktop/DEGREES & CERTS/MTECH/AI-ML/SEM-4/Dissertation/CaseCraft/wandb/run-20250120_145707-ty4609re/logs/debug-core.log"}
+{"time":"2025-01-20T14:57:07.391534+05:30","level":"INFO","msg":"created new stream","id":"ty4609re"}
+{"time":"2025-01-20T14:57:07.391571+05:30","level":"INFO","msg":"stream: started","id":"ty4609re"}
+{"time":"2025-01-20T14:57:07.391756+05:30","level":"INFO","msg":"handler: started","stream_id":"ty4609re"}
+{"time":"2025-01-20T14:57:07.391868+05:30","level":"INFO","msg":"sender: started","stream_id":"ty4609re"}
+{"time":"2025-01-20T14:57:07.391917+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ty4609re"}
+{"time":"2025-01-20T14:57:07.818893+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-20T14:57:08.42827+05:30","level":"INFO","msg":"stream: closing","id":"ty4609re"}
+{"time":"2025-01-20T14:57:08.428321+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-20T14:57:08.430107+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-20T14:57:10.913139+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-20T14:57:11.548128+05:30","level":"INFO","msg":"sender: closed","stream_id":"ty4609re"}
+{"time":"2025-01-20T14:57:11.5481+05:30","level":"INFO","msg":"handler: closed","stream_id":"ty4609re"}
+{"time":"2025-01-20T14:57:11.548113+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ty4609re"}
+{"time":"2025-01-20T14:57:11.548484+05:30","level":"INFO","msg":"stream: closed","id":"ty4609re"}
