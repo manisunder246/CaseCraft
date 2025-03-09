@@ -24,3 +24,63 @@ Contains command-line instructions for **fine-tuning and fusing a LLaMA model** 
 - Embedding extraction
 
 ---
+
+## 🔧 **Modifications in mlx-examples Repository**
+
+To adapt the **mlx-finetuning** process for our requirements, I modified a few files, making key adjustments for **training, logging, and model handling**.
+
+### 📝 **1. `lora.py` - Fine-Tuning Enhancements**
+
+#### **Added WandB Integration**
+Integrated **Weights & Biases (WandB)** to track fine-tuning progress and visualize metrics.
+
+```python
+import wandb
+wandb.init(project="mlx-finetuning", name="LoRA_Training")
+```
+
+Logged **training and validation metrics** dynamically:
+```python
+wandb.log({"train_loss": loss, "val_loss": val_loss})
+```
+
+Configured **hyperparameter tracking**:
+```python
+wandb.config.update({
+    "learning_rate": args.learning_rate,
+    "batch_size": args.batch_size,
+    "epochs": args.iters
+})
+```
+
+#### **Added Custom Adapter Saving**
+Specified **custom paths for saving adapter weights**:
+```python
+adapter_save_path = "./trained_adapters/"
+os.makedirs(adapter_save_path, exist_ok=True)
+```
+Saved **adapter weights in `safetensors` format**:
+```python
+mx.savez(f"{adapter_save_path}/adapters.safetensors", **dict(tree_flatten(model.trainable_parameters())))
+```
+Defined **detailed adapter configurations for LoRA**:
+```python
+adapter_config = {
+    "rank": 16,
+    "scaling": 20.0,
+    "dropout": 0.05
+}
+```
+
+### 📝 **2. `utils.py` - Enhanced Model Loading**
+
+#### **Modified Model Loading to Support Nested `text_config`**
+Added **support for handling multimodal models like LLaMA 3.2 Vision**:
+```python
+if "text_config" in model_config:
+    model_config.update(model_config["text_config"])
+```
+This ensures **compatibility with hybrid text-vision architectures**, making the fine-tuning process adaptable for diverse use cases.
+
+---
+
